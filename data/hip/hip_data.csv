@@ -1,0 +1,1431 @@
+Navn,Dato,Til tidspunkt,Felt,Trafikkmengde,< 5.6m,>= 5.6m,5.6m - 7.6m,7.6m - 12.5m,12.5m - 16.0m,>= 16.0m,16.0m - 24.0m,>= 24.0m,>=7.6m
+Hydrovegen,16.03.2023,1:00,1,7,4,3,3,0,0,0,0,0,0
+Hydrovegen,16.03.2023,1:00,2,6,4,2,2,0,0,0,0,0,0
+Hydrovegen,16.03.2023,1:00,Totalt i retning Herøya industripark,7,4,3,3,0,0,0,0,0,0
+Hydrovegen,16.03.2023,1:00,Totalt i retning Kulltangen,6,4,2,2,0,0,0,0,0,0
+Hydrovegen,16.03.2023,1:00,Totalt,13,8,5,5,0,0,0,0,0,0
+Hydrovegen,16.03.2023,2:00,1,4,3,1,1,0,0,0,0,0,0
+Hydrovegen,16.03.2023,2:00,2,5,3,2,1,0,0,1,1,0,1
+Hydrovegen,16.03.2023,2:00,Totalt i retning Herøya industripark,4,3,1,1,0,0,0,0,0,0
+Hydrovegen,16.03.2023,2:00,Totalt i retning Kulltangen,5,3,2,1,0,0,1,1,0,1
+Hydrovegen,16.03.2023,2:00,Totalt,9,6,3,2,0,0,1,1,0,1
+Hydrovegen,16.03.2023,3:00,1,1,1,0,0,0,0,0,0,0,0
+Hydrovegen,16.03.2023,3:00,2,1,1,0,0,0,0,0,0,0,0
+Hydrovegen,16.03.2023,3:00,Totalt i retning Herøya industripark,1,1,0,0,0,0,0,0,0,0
+Hydrovegen,16.03.2023,3:00,Totalt i retning Kulltangen,1,1,0,0,0,0,0,0,0,0
+Hydrovegen,16.03.2023,3:00,Totalt,2,2,0,0,0,0,0,0,0,0
+Hydrovegen,16.03.2023,4:00,1,2,2,0,0,0,0,0,0,0,0
+Hydrovegen,16.03.2023,4:00,2,4,2,2,1,1,0,0,0,0,1
+Hydrovegen,16.03.2023,4:00,Totalt i retning Herøya industripark,2,2,0,0,0,0,0,0,0,0
+Hydrovegen,16.03.2023,4:00,Totalt i retning Kulltangen,4,2,2,1,1,0,0,0,0,1
+Hydrovegen,16.03.2023,4:00,Totalt,6,4,2,1,1,0,0,0,0,1
+Hydrovegen,16.03.2023,5:00,1,7,5,2,1,1,0,0,0,0,1
+Hydrovegen,16.03.2023,5:00,2,7,3,2,2,0,0,0,0,0,0
+Hydrovegen,16.03.2023,5:00,Totalt i retning Herøya industripark,7,5,2,1,1,0,0,0,0,1
+Hydrovegen,16.03.2023,5:00,Totalt i retning Kulltangen,7,3,2,2,0,0,0,0,0,0
+Hydrovegen,16.03.2023,5:00,Totalt,14,8,4,3,1,0,0,0,0,1
+Hydrovegen,16.03.2023,6:00,1,51,47,4,2,0,1,1,1,0,2
+Hydrovegen,16.03.2023,6:00,2,13,7,6,2,3,0,1,1,0,4
+Hydrovegen,16.03.2023,6:00,Totalt i retning Herøya industripark,51,47,4,2,0,1,1,1,0,2
+Hydrovegen,16.03.2023,6:00,Totalt i retning Kulltangen,13,7,6,2,3,0,1,1,0,4
+Hydrovegen,16.03.2023,6:00,Totalt,64,54,10,4,3,1,2,2,0,6
+Hydrovegen,16.03.2023,7:00,1,477,453,24,18,2,1,3,3,0,6
+Hydrovegen,16.03.2023,7:00,2,82,42,29,24,3,2,0,0,0,5
+Hydrovegen,16.03.2023,7:00,Totalt i retning Herøya industripark,477,453,24,18,2,1,3,3,0,6
+Hydrovegen,16.03.2023,7:00,Totalt i retning Kulltangen,82,42,29,24,3,2,0,0,0,5
+Hydrovegen,16.03.2023,7:00,Totalt,559,495,53,42,5,3,3,3,0,11
+Hydrovegen,16.03.2023,8:00,1,485,443,42,14,11,5,12,12,0,28
+Hydrovegen,16.03.2023,8:00,2,131,64,33,19,3,5,6,6,0,14
+Hydrovegen,16.03.2023,8:00,Totalt i retning Herøya industripark,485,443,42,14,11,5,12,12,0,28
+Hydrovegen,16.03.2023,8:00,Totalt i retning Kulltangen,131,64,33,19,3,5,6,6,0,14
+Hydrovegen,16.03.2023,8:00,Totalt,616,507,75,33,14,10,18,18,0,42
+Hydrovegen,16.03.2023,9:00,1,248,192,55,20,12,3,20,20,0,35
+Hydrovegen,16.03.2023,9:00,2,135,44,70,40,16,5,9,9,0,30
+Hydrovegen,16.03.2023,9:00,Totalt i retning Herøya industripark,248,192,55,20,12,3,20,20,0,35
+Hydrovegen,16.03.2023,9:00,Totalt i retning Kulltangen,135,44,70,40,16,5,9,9,0,30
+Hydrovegen,16.03.2023,9:00,Totalt,383,236,125,60,28,8,29,29,0,65
+Hydrovegen,16.03.2023,10:00,1,135,97,38,8,11,3,16,16,0,30
+Hydrovegen,16.03.2023,10:00,2,112,47,60,31,7,1,21,21,0,29
+Hydrovegen,16.03.2023,10:00,Totalt i retning Herøya industripark,135,97,38,8,11,3,16,16,0,30
+Hydrovegen,16.03.2023,10:00,Totalt i retning Kulltangen,112,47,60,31,7,1,21,21,0,29
+Hydrovegen,16.03.2023,10:00,Totalt,247,144,98,39,18,4,37,37,0,59
+Hydrovegen,16.03.2023,11:00,1,143,103,40,10,8,3,19,19,0,30
+Hydrovegen,16.03.2023,11:00,2,131,66,57,33,9,1,14,14,0,24
+Hydrovegen,16.03.2023,11:00,Totalt i retning Herøya industripark,143,103,40,10,8,3,19,19,0,30
+Hydrovegen,16.03.2023,11:00,Totalt i retning Kulltangen,131,66,57,33,9,1,14,14,0,24
+Hydrovegen,16.03.2023,11:00,Totalt,274,169,97,43,17,4,33,33,0,54
+Hydrovegen,16.03.2023,12:00,1,135,101,34,11,9,2,12,12,0,23
+Hydrovegen,16.03.2023,12:00,2,150,69,69,43,9,1,16,16,0,26
+Hydrovegen,16.03.2023,12:00,Totalt i retning Herøya industripark,135,101,34,11,9,2,12,12,0,23
+Hydrovegen,16.03.2023,12:00,Totalt i retning Kulltangen,150,69,69,43,9,1,16,16,0,26
+Hydrovegen,16.03.2023,12:00,Totalt,285,170,103,54,18,3,28,28,0,49
+Hydrovegen,16.03.2023,13:00,1,134,93,41,14,6,5,16,16,0,27
+Hydrovegen,16.03.2023,13:00,2,133,61,63,35,11,0,17,17,0,28
+Hydrovegen,16.03.2023,13:00,Totalt i retning Herøya industripark,134,93,41,14,6,5,16,16,0,27
+Hydrovegen,16.03.2023,13:00,Totalt i retning Kulltangen,133,61,63,35,11,0,17,17,0,28
+Hydrovegen,16.03.2023,13:00,Totalt,267,154,104,49,17,5,33,33,0,55
+Hydrovegen,16.03.2023,14:00,1,183,147,36,9,10,8,9,9,0,27
+Hydrovegen,16.03.2023,14:00,2,173,88,69,42,9,1,17,16,1,27
+Hydrovegen,16.03.2023,14:00,Totalt i retning Herøya industripark,183,147,36,9,10,8,9,9,0,27
+Hydrovegen,16.03.2023,14:00,Totalt i retning Kulltangen,173,88,69,42,9,1,17,16,1,27
+Hydrovegen,16.03.2023,14:00,Totalt,356,235,105,51,19,9,26,25,1,54
+Hydrovegen,16.03.2023,15:00,1,200,160,40,8,10,6,16,16,0,32
+Hydrovegen,16.03.2023,15:00,2,325,200,106,74,12,4,16,16,0,32
+Hydrovegen,16.03.2023,15:00,Totalt i retning Herøya industripark,200,160,40,8,10,6,16,16,0,32
+Hydrovegen,16.03.2023,15:00,Totalt i retning Kulltangen,325,200,106,74,12,4,16,16,0,32
+Hydrovegen,16.03.2023,15:00,Totalt,525,360,146,82,22,10,32,32,0,64
+Hydrovegen,16.03.2023,16:00,1,156,135,21,3,6,3,9,9,0,18
+Hydrovegen,16.03.2023,16:00,2,152,99,45,40,0,1,4,4,0,5
+Hydrovegen,16.03.2023,16:00,Totalt i retning Herøya industripark,156,135,21,3,6,3,9,9,0,18
+Hydrovegen,16.03.2023,16:00,Totalt i retning Kulltangen,152,99,45,40,0,1,4,4,0,5
+Hydrovegen,16.03.2023,16:00,Totalt,308,234,66,43,6,4,13,13,0,23
+Hydrovegen,16.03.2023,17:00,1,128,114,14,4,5,3,2,2,0,10
+Hydrovegen,16.03.2023,17:00,2,225,169,43,34,1,3,5,5,0,9
+Hydrovegen,16.03.2023,17:00,Totalt i retning Herøya industripark,128,114,14,4,5,3,2,2,0,10
+Hydrovegen,16.03.2023,17:00,Totalt i retning Kulltangen,225,169,43,34,1,3,5,5,0,9
+Hydrovegen,16.03.2023,17:00,Totalt,353,283,57,38,6,6,7,7,0,19
+Hydrovegen,16.03.2023,18:00,1,68,60,8,1,3,2,2,1,1,7
+Hydrovegen,16.03.2023,18:00,2,91,67,19,12,2,2,3,3,0,7
+Hydrovegen,16.03.2023,18:00,Totalt i retning Herøya industripark,68,60,8,1,3,2,2,1,1,7
+Hydrovegen,16.03.2023,18:00,Totalt i retning Kulltangen,91,67,19,12,2,2,3,3,0,7
+Hydrovegen,16.03.2023,18:00,Totalt,159,127,27,13,5,4,5,4,1,14
+Hydrovegen,16.03.2023,19:00,1,70,61,9,5,1,1,2,2,0,4
+Hydrovegen,16.03.2023,19:00,2,58,48,9,6,2,0,1,1,0,3
+Hydrovegen,16.03.2023,19:00,Totalt i retning Herøya industripark,70,61,9,5,1,1,2,2,0,4
+Hydrovegen,16.03.2023,19:00,Totalt i retning Kulltangen,58,48,9,6,2,0,1,1,0,3
+Hydrovegen,16.03.2023,19:00,Totalt,128,109,18,11,3,1,3,3,0,7
+Hydrovegen,16.03.2023,20:00,1,55,50,5,0,0,1,4,4,0,5
+Hydrovegen,16.03.2023,20:00,2,17,11,6,1,3,1,1,1,0,5
+Hydrovegen,16.03.2023,20:00,Totalt i retning Herøya industripark,55,50,5,0,0,1,4,4,0,5
+Hydrovegen,16.03.2023,20:00,Totalt i retning Kulltangen,17,11,6,1,3,1,1,1,0,5
+Hydrovegen,16.03.2023,20:00,Totalt,72,61,11,1,3,2,5,5,0,10
+Hydrovegen,16.03.2023,21:00,1,36,32,4,1,2,1,0,0,0,3
+Hydrovegen,16.03.2023,21:00,2,6,5,1,1,0,0,0,0,0,0
+Hydrovegen,16.03.2023,21:00,Totalt i retning Herøya industripark,36,32,4,1,2,1,0,0,0,3
+Hydrovegen,16.03.2023,21:00,Totalt i retning Kulltangen,6,5,1,1,0,0,0,0,0,0
+Hydrovegen,16.03.2023,21:00,Totalt,42,37,5,2,2,1,0,0,0,3
+Hydrovegen,16.03.2023,22:00,1,45,35,10,2,5,1,2,2,0,8
+Hydrovegen,16.03.2023,22:00,2,2,2,0,0,0,0,0,0,0,0
+Hydrovegen,16.03.2023,22:00,Totalt i retning Herøya industripark,45,35,10,2,5,1,2,2,0,8
+Hydrovegen,16.03.2023,22:00,Totalt i retning Kulltangen,2,2,0,0,0,0,0,0,0,0
+Hydrovegen,16.03.2023,22:00,Totalt,47,37,10,2,5,1,2,2,0,8
+Hydrovegen,16.03.2023,23:00,1,53,50,3,2,1,0,0,0,0,1
+Hydrovegen,16.03.2023,23:00,2,1,1,0,0,0,0,0,0,0,0
+Hydrovegen,16.03.2023,23:00,Totalt i retning Herøya industripark,53,50,3,2,1,0,0,0,0,1
+Hydrovegen,16.03.2023,23:00,Totalt i retning Kulltangen,1,1,0,0,0,0,0,0,0,0
+Hydrovegen,16.03.2023,23:00,Totalt,54,51,3,2,1,0,0,0,0,1
+Hydrovegen,16.03.2023,0:00,1,12,9,3,2,1,0,0,0,0,1
+Hydrovegen,16.03.2023,0:00,2,0,0,0,0,0,0,0,0,0,0
+Hydrovegen,16.03.2023,0:00,Totalt i retning Herøya industripark,12,9,3,2,1,0,0,0,0,1
+Hydrovegen,16.03.2023,0:00,Totalt i retning Kulltangen,0,0,0,0,0,0,0,0,0,0
+Hydrovegen,16.03.2023,0:00,Totalt,12,9,3,2,1,0,0,0,0,1
+Hydrovegen,17.03.2023,1:00,1,4,3,1,1,0,0,0,0,0,0
+Hydrovegen,17.03.2023,1:00,2,0,0,0,0,0,0,0,0,0,0
+Hydrovegen,17.03.2023,1:00,Totalt i retning Herøya industripark,4,3,1,1,0,0,0,0,0,0
+Hydrovegen,17.03.2023,1:00,Totalt i retning Kulltangen,0,0,0,0,0,0,0,0,0,0
+Hydrovegen,17.03.2023,1:00,Totalt,4,3,1,1,0,0,0,0,0,0
+Hydrovegen,17.03.2023,2:00,1,4,1,3,2,1,0,0,0,0,1
+Hydrovegen,17.03.2023,2:00,2,1,1,0,0,0,0,0,0,0,0
+Hydrovegen,17.03.2023,2:00,Totalt i retning Herøya industripark,4,1,3,2,1,0,0,0,0,1
+Hydrovegen,17.03.2023,2:00,Totalt i retning Kulltangen,1,1,0,0,0,0,0,0,0,0
+Hydrovegen,17.03.2023,2:00,Totalt,5,2,3,2,1,0,0,0,0,1
+Hydrovegen,17.03.2023,3:00,1,7,4,3,2,1,0,0,0,0,1
+Hydrovegen,17.03.2023,3:00,2,7,1,6,3,2,1,0,0,0,3
+Hydrovegen,17.03.2023,3:00,Totalt i retning Herøya industripark,7,4,3,2,1,0,0,0,0,1
+Hydrovegen,17.03.2023,3:00,Totalt i retning Kulltangen,7,1,6,3,2,1,0,0,0,3
+Hydrovegen,17.03.2023,3:00,Totalt,14,5,9,5,3,1,0,0,0,4
+Hydrovegen,17.03.2023,4:00,1,9,6,3,3,0,0,0,0,0,0
+Hydrovegen,17.03.2023,4:00,2,6,0,6,2,4,0,0,0,0,4
+Hydrovegen,17.03.2023,4:00,Totalt i retning Herøya industripark,9,6,3,3,0,0,0,0,0,0
+Hydrovegen,17.03.2023,4:00,Totalt i retning Kulltangen,6,0,6,2,4,0,0,0,0,4
+Hydrovegen,17.03.2023,4:00,Totalt,15,6,9,5,4,0,0,0,0,4
+Hydrovegen,17.03.2023,5:00,1,7,6,1,0,0,0,1,1,0,1
+Hydrovegen,17.03.2023,5:00,2,9,4,5,3,2,0,0,0,0,2
+Hydrovegen,17.03.2023,5:00,Totalt i retning Herøya industripark,7,6,1,0,0,0,1,1,0,1
+Hydrovegen,17.03.2023,5:00,Totalt i retning Kulltangen,9,4,5,3,2,0,0,0,0,2
+Hydrovegen,17.03.2023,5:00,Totalt,16,10,6,3,2,0,1,1,0,3
+Hydrovegen,17.03.2023,6:00,1,57,51,6,5,0,1,0,0,0,1
+Hydrovegen,17.03.2023,6:00,2,19,15,4,2,2,0,0,0,0,2
+Hydrovegen,17.03.2023,6:00,Totalt i retning Herøya industripark,57,51,6,5,0,1,0,0,0,1
+Hydrovegen,17.03.2023,6:00,Totalt i retning Kulltangen,19,15,4,2,2,0,0,0,0,2
+Hydrovegen,17.03.2023,6:00,Totalt,76,66,10,7,2,1,0,0,0,3
+Hydrovegen,17.03.2023,7:00,1,404,381,23,8,7,6,2,2,0,15
+Hydrovegen,17.03.2023,7:00,2,86,59,16,6,8,1,1,1,0,10
+Hydrovegen,17.03.2023,7:00,Totalt i retning Herøya industripark,404,381,23,8,7,6,2,2,0,15
+Hydrovegen,17.03.2023,7:00,Totalt i retning Kulltangen,86,59,16,6,8,1,1,1,0,10
+Hydrovegen,17.03.2023,7:00,Totalt,490,440,39,14,15,7,3,3,0,25
+Hydrovegen,17.03.2023,8:00,1,416,380,36,11,6,6,13,13,0,25
+Hydrovegen,17.03.2023,8:00,2,86,57,17,10,3,3,1,1,0,7
+Hydrovegen,17.03.2023,8:00,Totalt i retning Herøya industripark,416,380,36,11,6,6,13,13,0,25
+Hydrovegen,17.03.2023,8:00,Totalt i retning Kulltangen,86,57,17,10,3,3,1,1,0,7
+Hydrovegen,17.03.2023,8:00,Totalt,502,437,53,21,9,9,14,14,0,32
+Hydrovegen,17.03.2023,9:00,1,228,195,33,11,10,6,6,6,0,22
+Hydrovegen,17.03.2023,9:00,2,75,35,30,13,3,5,9,9,0,17
+Hydrovegen,17.03.2023,9:00,Totalt i retning Herøya industripark,228,195,33,11,10,6,6,6,0,22
+Hydrovegen,17.03.2023,9:00,Totalt i retning Kulltangen,75,35,30,13,3,5,9,9,0,17
+Hydrovegen,17.03.2023,9:00,Totalt,303,230,63,24,13,11,15,15,0,39
+Hydrovegen,17.03.2023,10:00,1,119,82,37,8,12,8,9,9,0,29
+Hydrovegen,17.03.2023,10:00,2,85,45,39,19,3,3,14,14,0,20
+Hydrovegen,17.03.2023,10:00,Totalt i retning Herøya industripark,119,82,37,8,12,8,9,9,0,29
+Hydrovegen,17.03.2023,10:00,Totalt i retning Kulltangen,85,45,39,19,3,3,14,14,0,20
+Hydrovegen,17.03.2023,10:00,Totalt,204,127,76,27,15,11,23,23,0,49
+Hydrovegen,17.03.2023,11:00,1,118,76,42,10,12,8,12,12,0,32
+Hydrovegen,17.03.2023,11:00,2,76,40,35,17,2,5,11,10,1,18
+Hydrovegen,17.03.2023,11:00,Totalt i retning Herøya industripark,118,76,42,10,12,8,12,12,0,32
+Hydrovegen,17.03.2023,11:00,Totalt i retning Kulltangen,76,40,35,17,2,5,11,10,1,18
+Hydrovegen,17.03.2023,11:00,Totalt,194,116,77,27,14,13,23,22,1,50
+Hydrovegen,17.03.2023,12:00,1,138,106,32,14,8,5,5,5,0,18
+Hydrovegen,17.03.2023,12:00,2,144,85,53,36,10,2,5,5,0,17
+Hydrovegen,17.03.2023,12:00,Totalt i retning Herøya industripark,138,106,32,14,8,5,5,5,0,18
+Hydrovegen,17.03.2023,12:00,Totalt i retning Kulltangen,144,85,53,36,10,2,5,5,0,17
+Hydrovegen,17.03.2023,12:00,Totalt,282,191,85,50,18,7,10,10,0,35
+Hydrovegen,17.03.2023,13:00,1,133,89,44,15,14,4,11,11,0,29
+Hydrovegen,17.03.2023,13:00,2,159,95,55,30,10,4,11,11,0,25
+Hydrovegen,17.03.2023,13:00,Totalt i retning Herøya industripark,133,89,44,15,14,4,11,11,0,29
+Hydrovegen,17.03.2023,13:00,Totalt i retning Kulltangen,159,95,55,30,10,4,11,11,0,25
+Hydrovegen,17.03.2023,13:00,Totalt,292,184,99,45,24,8,22,22,0,54
+Hydrovegen,17.03.2023,14:00,1,145,108,37,11,12,5,9,9,0,26
+Hydrovegen,17.03.2023,14:00,2,201,124,65,43,6,3,13,13,0,22
+Hydrovegen,17.03.2023,14:00,Totalt i retning Herøya industripark,145,108,37,11,12,5,9,9,0,26
+Hydrovegen,17.03.2023,14:00,Totalt i retning Kulltangen,201,124,65,43,6,3,13,13,0,22
+Hydrovegen,17.03.2023,14:00,Totalt,346,232,102,54,18,8,22,22,0,48
+Hydrovegen,17.03.2023,15:00,1,115,86,29,10,13,2,4,4,0,19
+Hydrovegen,17.03.2023,15:00,2,272,191,68,51,9,2,6,6,0,17
+Hydrovegen,17.03.2023,15:00,Totalt i retning Herøya industripark,115,86,29,10,13,2,4,4,0,19
+Hydrovegen,17.03.2023,15:00,Totalt i retning Kulltangen,272,191,68,51,9,2,6,6,0,17
+Hydrovegen,17.03.2023,15:00,Totalt,387,277,97,61,22,4,10,10,0,36
+Hydrovegen,17.03.2023,16:00,1,160,142,18,7,6,1,4,4,0,11
+Hydrovegen,17.03.2023,16:00,2,342,250,75,68,3,0,4,4,0,7
+Hydrovegen,17.03.2023,16:00,Totalt i retning Herøya industripark,160,142,18,7,6,1,4,4,0,11
+Hydrovegen,17.03.2023,16:00,Totalt i retning Kulltangen,342,250,75,68,3,0,4,4,0,7
+Hydrovegen,17.03.2023,16:00,Totalt,502,392,93,75,9,1,8,8,0,18
+Hydrovegen,17.03.2023,17:00,1,108,95,13,5,7,1,0,0,0,8
+Hydrovegen,17.03.2023,17:00,2,161,129,27,20,6,0,1,1,0,7
+Hydrovegen,17.03.2023,17:00,Totalt i retning Herøya industripark,108,95,13,5,7,1,0,0,0,8
+Hydrovegen,17.03.2023,17:00,Totalt i retning Kulltangen,161,129,27,20,6,0,1,1,0,7
+Hydrovegen,17.03.2023,17:00,Totalt,269,224,40,25,13,1,1,1,0,15
+Hydrovegen,17.03.2023,18:00,1,75,61,14,6,6,2,0,0,0,8
+Hydrovegen,17.03.2023,18:00,2,72,56,15,7,5,2,1,1,0,8
+Hydrovegen,17.03.2023,18:00,Totalt i retning Herøya industripark,75,61,14,6,6,2,0,0,0,8
+Hydrovegen,17.03.2023,18:00,Totalt i retning Kulltangen,72,56,15,7,5,2,1,1,0,8
+Hydrovegen,17.03.2023,18:00,Totalt,147,117,29,13,11,4,1,1,0,16
+Hydrovegen,17.03.2023,19:00,1,78,70,8,0,8,0,0,0,0,8
+Hydrovegen,17.03.2023,19:00,2,82,65,16,12,3,1,0,0,0,4
+Hydrovegen,17.03.2023,19:00,Totalt i retning Herøya industripark,78,70,8,0,8,0,0,0,0,8
+Hydrovegen,17.03.2023,19:00,Totalt i retning Kulltangen,82,65,16,12,3,1,0,0,0,4
+Hydrovegen,17.03.2023,19:00,Totalt,160,135,24,12,11,1,0,0,0,12
+Hydrovegen,17.03.2023,20:00,1,52,47,5,1,4,0,0,0,0,4
+Hydrovegen,17.03.2023,20:00,2,47,30,17,11,2,2,2,2,0,6
+Hydrovegen,17.03.2023,20:00,Totalt i retning Herøya industripark,52,47,5,1,4,0,0,0,0,4
+Hydrovegen,17.03.2023,20:00,Totalt i retning Kulltangen,47,30,17,11,2,2,2,2,0,6
+Hydrovegen,17.03.2023,20:00,Totalt,99,77,22,12,6,2,2,2,0,10
+Hydrovegen,17.03.2023,21:00,1,31,27,4,2,2,0,0,0,0,2
+Hydrovegen,17.03.2023,21:00,2,30,21,9,7,1,1,0,0,0,2
+Hydrovegen,17.03.2023,21:00,Totalt i retning Herøya industripark,31,27,4,2,2,0,0,0,0,2
+Hydrovegen,17.03.2023,21:00,Totalt i retning Kulltangen,30,21,9,7,1,1,0,0,0,2
+Hydrovegen,17.03.2023,21:00,Totalt,61,48,13,9,3,1,0,0,0,4
+Hydrovegen,17.03.2023,22:00,1,35,32,3,1,1,1,0,0,0,2
+Hydrovegen,17.03.2023,22:00,2,18,15,3,2,1,0,0,0,0,1
+Hydrovegen,17.03.2023,22:00,Totalt i retning Herøya industripark,35,32,3,1,1,1,0,0,0,2
+Hydrovegen,17.03.2023,22:00,Totalt i retning Kulltangen,18,15,3,2,1,0,0,0,0,1
+Hydrovegen,17.03.2023,22:00,Totalt,53,47,6,3,2,1,0,0,0,3
+Hydrovegen,17.03.2023,23:00,1,22,19,3,1,2,0,0,0,0,2
+Hydrovegen,17.03.2023,23:00,2,28,20,7,5,0,2,0,0,0,2
+Hydrovegen,17.03.2023,23:00,Totalt i retning Herøya industripark,22,19,3,1,2,0,0,0,0,2
+Hydrovegen,17.03.2023,23:00,Totalt i retning Kulltangen,28,20,7,5,0,2,0,0,0,2
+Hydrovegen,17.03.2023,23:00,Totalt,50,39,10,6,2,2,0,0,0,4
+Hydrovegen,17.03.2023,0:00,1,12,9,3,0,3,0,0,0,0,3
+Hydrovegen,17.03.2023,0:00,2,17,9,8,5,2,0,1,1,0,3
+Hydrovegen,17.03.2023,0:00,Totalt i retning Herøya industripark,12,9,3,0,3,0,0,0,0,3
+Hydrovegen,17.03.2023,0:00,Totalt i retning Kulltangen,17,9,8,5,2,0,1,1,0,3
+Hydrovegen,17.03.2023,0:00,Totalt,29,18,11,5,5,0,1,1,0,6
+Hydrovegen,18.03.2023,1:00,1,7,6,1,1,0,0,0,0,0,0
+Hydrovegen,18.03.2023,1:00,2,11,9,2,1,1,0,0,0,0,1
+Hydrovegen,18.03.2023,1:00,Totalt i retning Herøya industripark,7,6,1,1,0,0,0,0,0,0
+Hydrovegen,18.03.2023,1:00,Totalt i retning Kulltangen,11,9,2,1,1,0,0,0,0,1
+Hydrovegen,18.03.2023,1:00,Totalt,18,15,3,2,1,0,0,0,0,1
+Hydrovegen,18.03.2023,2:00,1,11,11,0,0,0,0,0,0,0,0
+Hydrovegen,18.03.2023,2:00,2,4,3,1,1,0,0,0,0,0,0
+Hydrovegen,18.03.2023,2:00,Totalt i retning Herøya industripark,11,11,0,0,0,0,0,0,0,0
+Hydrovegen,18.03.2023,2:00,Totalt i retning Kulltangen,4,3,1,1,0,0,0,0,0,0
+Hydrovegen,18.03.2023,2:00,Totalt,15,14,1,1,0,0,0,0,0,0
+Hydrovegen,18.03.2023,3:00,1,2,0,2,1,1,0,0,0,0,1
+Hydrovegen,18.03.2023,3:00,2,3,2,1,0,1,0,0,0,0,1
+Hydrovegen,18.03.2023,3:00,Totalt i retning Herøya industripark,2,0,2,1,1,0,0,0,0,1
+Hydrovegen,18.03.2023,3:00,Totalt i retning Kulltangen,3,2,1,0,1,0,0,0,0,1
+Hydrovegen,18.03.2023,3:00,Totalt,5,2,3,1,2,0,0,0,0,2
+Hydrovegen,18.03.2023,4:00,1,1,0,1,1,0,0,0,0,0,0
+Hydrovegen,18.03.2023,4:00,2,4,2,2,2,0,0,0,0,0,0
+Hydrovegen,18.03.2023,4:00,Totalt i retning Herøya industripark,1,0,1,1,0,0,0,0,0,0
+Hydrovegen,18.03.2023,4:00,Totalt i retning Kulltangen,4,2,2,2,0,0,0,0,0,0
+Hydrovegen,18.03.2023,4:00,Totalt,5,2,3,3,0,0,0,0,0,0
+Hydrovegen,18.03.2023,5:00,1,1,0,1,1,0,0,0,0,0,0
+Hydrovegen,18.03.2023,5:00,2,1,0,1,1,0,0,0,0,0,0
+Hydrovegen,18.03.2023,5:00,Totalt i retning Herøya industripark,1,0,1,1,0,0,0,0,0,0
+Hydrovegen,18.03.2023,5:00,Totalt i retning Kulltangen,1,0,1,1,0,0,0,0,0,0
+Hydrovegen,18.03.2023,5:00,Totalt,2,0,2,2,0,0,0,0,0,0
+Hydrovegen,18.03.2023,6:00,1,21,19,2,2,0,0,0,0,0,0
+Hydrovegen,18.03.2023,6:00,2,9,6,3,3,0,0,0,0,0,0
+Hydrovegen,18.03.2023,6:00,Totalt i retning Herøya industripark,21,19,2,2,0,0,0,0,0,0
+Hydrovegen,18.03.2023,6:00,Totalt i retning Kulltangen,9,6,3,3,0,0,0,0,0,0
+Hydrovegen,18.03.2023,6:00,Totalt,30,25,5,5,0,0,0,0,0,0
+Hydrovegen,18.03.2023,7:00,1,55,52,3,3,0,0,0,0,0,0
+Hydrovegen,18.03.2023,7:00,2,54,43,11,11,0,0,0,0,0,0
+Hydrovegen,18.03.2023,7:00,Totalt i retning Herøya industripark,55,52,3,3,0,0,0,0,0,0
+Hydrovegen,18.03.2023,7:00,Totalt i retning Kulltangen,54,43,11,11,0,0,0,0,0,0
+Hydrovegen,18.03.2023,7:00,Totalt,109,95,14,14,0,0,0,0,0,0
+Hydrovegen,18.03.2023,8:00,1,28,24,4,1,2,1,0,0,0,3
+Hydrovegen,18.03.2023,8:00,2,8,8,0,0,0,0,0,0,0,0
+Hydrovegen,18.03.2023,8:00,Totalt i retning Herøya industripark,28,24,4,1,2,1,0,0,0,3
+Hydrovegen,18.03.2023,8:00,Totalt i retning Kulltangen,8,8,0,0,0,0,0,0,0,0
+Hydrovegen,18.03.2023,8:00,Totalt,36,32,4,1,2,1,0,0,0,3
+Hydrovegen,18.03.2023,9:00,1,23,22,1,0,0,0,1,1,0,1
+Hydrovegen,18.03.2023,9:00,2,18,12,6,2,2,2,0,0,0,4
+Hydrovegen,18.03.2023,9:00,Totalt i retning Herøya industripark,23,22,1,0,0,0,1,1,0,1
+Hydrovegen,18.03.2023,9:00,Totalt i retning Kulltangen,18,12,6,2,2,2,0,0,0,4
+Hydrovegen,18.03.2023,9:00,Totalt,41,34,7,2,2,2,1,1,0,5
+Hydrovegen,18.03.2023,10:00,1,30,22,8,3,2,2,1,1,0,5
+Hydrovegen,18.03.2023,10:00,2,30,27,3,3,0,0,0,0,0,0
+Hydrovegen,18.03.2023,10:00,Totalt i retning Herøya industripark,30,22,8,3,2,2,1,1,0,5
+Hydrovegen,18.03.2023,10:00,Totalt i retning Kulltangen,30,27,3,3,0,0,0,0,0,0
+Hydrovegen,18.03.2023,10:00,Totalt,60,49,11,6,2,2,1,1,0,5
+Hydrovegen,18.03.2023,11:00,1,48,39,9,5,4,0,0,0,0,4
+Hydrovegen,18.03.2023,11:00,2,47,29,15,10,1,2,2,2,0,5
+Hydrovegen,18.03.2023,11:00,Totalt i retning Herøya industripark,48,39,9,5,4,0,0,0,0,4
+Hydrovegen,18.03.2023,11:00,Totalt i retning Kulltangen,47,29,15,10,1,2,2,2,0,5
+Hydrovegen,18.03.2023,11:00,Totalt,95,68,24,15,5,2,2,2,0,9
+Hydrovegen,18.03.2023,12:00,1,74,62,12,7,3,1,1,1,0,5
+Hydrovegen,18.03.2023,12:00,2,71,53,18,17,1,0,0,0,0,1
+Hydrovegen,18.03.2023,12:00,Totalt i retning Herøya industripark,74,62,12,7,3,1,1,1,0,5
+Hydrovegen,18.03.2023,12:00,Totalt i retning Kulltangen,71,53,18,17,1,0,0,0,0,1
+Hydrovegen,18.03.2023,12:00,Totalt,145,115,30,24,4,1,1,1,0,6
+Hydrovegen,18.03.2023,13:00,1,74,69,5,3,2,0,0,0,0,2
+Hydrovegen,18.03.2023,13:00,2,71,52,16,14,1,0,1,1,0,2
+Hydrovegen,18.03.2023,13:00,Totalt i retning Herøya industripark,74,69,5,3,2,0,0,0,0,2
+Hydrovegen,18.03.2023,13:00,Totalt i retning Kulltangen,71,52,16,14,1,0,1,1,0,2
+Hydrovegen,18.03.2023,13:00,Totalt,145,121,21,17,3,0,1,1,0,4
+Hydrovegen,18.03.2023,14:00,1,72,69,3,1,2,0,0,0,0,2
+Hydrovegen,18.03.2023,14:00,2,83,72,10,8,1,1,0,0,0,2
+Hydrovegen,18.03.2023,14:00,Totalt i retning Herøya industripark,72,69,3,1,2,0,0,0,0,2
+Hydrovegen,18.03.2023,14:00,Totalt i retning Kulltangen,83,72,10,8,1,1,0,0,0,2
+Hydrovegen,18.03.2023,14:00,Totalt,155,141,13,9,3,1,0,0,0,4
+Hydrovegen,18.03.2023,15:00,1,66,64,2,1,1,0,0,0,0,1
+Hydrovegen,18.03.2023,15:00,2,70,57,12,8,3,0,1,1,0,4
+Hydrovegen,18.03.2023,15:00,Totalt i retning Herøya industripark,66,64,2,1,1,0,0,0,0,1
+Hydrovegen,18.03.2023,15:00,Totalt i retning Kulltangen,70,57,12,8,3,0,1,1,0,4
+Hydrovegen,18.03.2023,15:00,Totalt,136,121,14,9,4,0,1,1,0,5
+Hydrovegen,18.03.2023,16:00,1,82,77,5,2,2,0,1,1,0,3
+Hydrovegen,18.03.2023,16:00,2,68,54,13,7,4,2,0,0,0,6
+Hydrovegen,18.03.2023,16:00,Totalt i retning Herøya industripark,82,77,5,2,2,0,1,1,0,3
+Hydrovegen,18.03.2023,16:00,Totalt i retning Kulltangen,68,54,13,7,4,2,0,0,0,6
+Hydrovegen,18.03.2023,16:00,Totalt,150,131,18,9,6,2,1,1,0,9
+Hydrovegen,18.03.2023,17:00,1,64,57,7,2,3,1,1,1,0,5
+Hydrovegen,18.03.2023,17:00,2,56,43,11,9,2,0,0,0,0,2
+Hydrovegen,18.03.2023,17:00,Totalt i retning Herøya industripark,64,57,7,2,3,1,1,1,0,5
+Hydrovegen,18.03.2023,17:00,Totalt i retning Kulltangen,56,43,11,9,2,0,0,0,0,2
+Hydrovegen,18.03.2023,17:00,Totalt,120,100,18,11,5,1,1,1,0,7
+Hydrovegen,18.03.2023,18:00,1,68,63,5,2,3,0,0,0,0,3
+Hydrovegen,18.03.2023,18:00,2,50,35,13,5,3,2,3,3,0,8
+Hydrovegen,18.03.2023,18:00,Totalt i retning Herøya industripark,68,63,5,2,3,0,0,0,0,3
+Hydrovegen,18.03.2023,18:00,Totalt i retning Kulltangen,50,35,13,5,3,2,3,3,0,8
+Hydrovegen,18.03.2023,18:00,Totalt,118,98,18,7,6,2,3,3,0,11
+Hydrovegen,18.03.2023,19:00,1,103,99,4,2,1,1,0,0,0,2
+Hydrovegen,18.03.2023,19:00,2,86,76,9,7,2,0,0,0,0,2
+Hydrovegen,18.03.2023,19:00,Totalt i retning Herøya industripark,103,99,4,2,1,1,0,0,0,2
+Hydrovegen,18.03.2023,19:00,Totalt i retning Kulltangen,86,76,9,7,2,0,0,0,0,2
+Hydrovegen,18.03.2023,19:00,Totalt,189,175,13,9,3,1,0,0,0,4
+Hydrovegen,18.03.2023,20:00,1,26,22,4,1,2,1,0,0,0,3
+Hydrovegen,18.03.2023,20:00,2,31,23,8,5,2,1,0,0,0,3
+Hydrovegen,18.03.2023,20:00,Totalt i retning Herøya industripark,26,22,4,1,2,1,0,0,0,3
+Hydrovegen,18.03.2023,20:00,Totalt i retning Kulltangen,31,23,8,5,2,1,0,0,0,3
+Hydrovegen,18.03.2023,20:00,Totalt,57,45,12,6,4,2,0,0,0,6
+Hydrovegen,18.03.2023,21:00,1,21,18,3,1,1,0,1,1,0,2
+Hydrovegen,18.03.2023,21:00,2,14,9,5,4,1,0,0,0,0,1
+Hydrovegen,18.03.2023,21:00,Totalt i retning Herøya industripark,21,18,3,1,1,0,1,1,0,2
+Hydrovegen,18.03.2023,21:00,Totalt i retning Kulltangen,14,9,5,4,1,0,0,0,0,1
+Hydrovegen,18.03.2023,21:00,Totalt,35,27,8,5,2,0,1,1,0,3
+Hydrovegen,18.03.2023,22:00,1,26,24,2,1,1,0,0,0,0,1
+Hydrovegen,18.03.2023,22:00,2,17,11,6,4,1,1,0,0,0,2
+Hydrovegen,18.03.2023,22:00,Totalt i retning Herøya industripark,26,24,2,1,1,0,0,0,0,1
+Hydrovegen,18.03.2023,22:00,Totalt i retning Kulltangen,17,11,6,4,1,1,0,0,0,2
+Hydrovegen,18.03.2023,22:00,Totalt,43,35,8,5,2,1,0,0,0,3
+Hydrovegen,18.03.2023,23:00,1,17,13,4,3,1,0,0,0,0,1
+Hydrovegen,18.03.2023,23:00,2,19,17,2,2,0,0,0,0,0,0
+Hydrovegen,18.03.2023,23:00,Totalt i retning Herøya industripark,17,13,4,3,1,0,0,0,0,1
+Hydrovegen,18.03.2023,23:00,Totalt i retning Kulltangen,19,17,2,2,0,0,0,0,0,0
+Hydrovegen,18.03.2023,23:00,Totalt,36,30,6,5,1,0,0,0,0,1
+Hydrovegen,18.03.2023,0:00,1,15,15,0,0,0,0,0,0,0,0
+Hydrovegen,18.03.2023,0:00,2,13,12,1,0,0,1,0,0,0,1
+Hydrovegen,18.03.2023,0:00,Totalt i retning Herøya industripark,15,15,0,0,0,0,0,0,0,0
+Hydrovegen,18.03.2023,0:00,Totalt i retning Kulltangen,13,12,1,0,0,1,0,0,0,1
+Hydrovegen,18.03.2023,0:00,Totalt,28,27,1,0,0,1,0,0,0,1
+Hydrovegen,19.03.2023,1:00,1,9,9,0,0,0,0,0,0,0,0
+Hydrovegen,19.03.2023,1:00,2,11,9,2,1,1,0,0,0,0,1
+Hydrovegen,19.03.2023,1:00,Totalt i retning Herøya industripark,9,9,0,0,0,0,0,0,0,0
+Hydrovegen,19.03.2023,1:00,Totalt i retning Kulltangen,11,9,2,1,1,0,0,0,0,1
+Hydrovegen,19.03.2023,1:00,Totalt,20,18,2,1,1,0,0,0,0,1
+Hydrovegen,19.03.2023,2:00,1,7,6,1,1,0,0,0,0,0,0
+Hydrovegen,19.03.2023,2:00,2,8,5,3,1,2,0,0,0,0,2
+Hydrovegen,19.03.2023,2:00,Totalt i retning Herøya industripark,7,6,1,1,0,0,0,0,0,0
+Hydrovegen,19.03.2023,2:00,Totalt i retning Kulltangen,8,5,3,1,2,0,0,0,0,2
+Hydrovegen,19.03.2023,2:00,Totalt,15,11,4,2,2,0,0,0,0,2
+Hydrovegen,19.03.2023,3:00,1,4,4,0,0,0,0,0,0,0,0
+Hydrovegen,19.03.2023,3:00,2,4,3,1,1,0,0,0,0,0,0
+Hydrovegen,19.03.2023,3:00,Totalt i retning Herøya industripark,4,4,0,0,0,0,0,0,0,0
+Hydrovegen,19.03.2023,3:00,Totalt i retning Kulltangen,4,3,1,1,0,0,0,0,0,0
+Hydrovegen,19.03.2023,3:00,Totalt,8,7,1,1,0,0,0,0,0,0
+Hydrovegen,19.03.2023,4:00,1,1,1,0,0,0,0,0,0,0,0
+Hydrovegen,19.03.2023,4:00,2,2,1,1,1,0,0,0,0,0,0
+Hydrovegen,19.03.2023,4:00,Totalt i retning Herøya industripark,1,1,0,0,0,0,0,0,0,0
+Hydrovegen,19.03.2023,4:00,Totalt i retning Kulltangen,2,1,1,1,0,0,0,0,0,0
+Hydrovegen,19.03.2023,4:00,Totalt,3,2,1,1,0,0,0,0,0,0
+Hydrovegen,19.03.2023,5:00,1,1,0,1,0,1,0,0,0,0,1
+Hydrovegen,19.03.2023,5:00,2,1,0,1,1,0,0,0,0,0,0
+Hydrovegen,19.03.2023,5:00,Totalt i retning Herøya industripark,1,0,1,0,1,0,0,0,0,1
+Hydrovegen,19.03.2023,5:00,Totalt i retning Kulltangen,1,0,1,1,0,0,0,0,0,0
+Hydrovegen,19.03.2023,5:00,Totalt,2,0,2,1,1,0,0,0,0,1
+Hydrovegen,19.03.2023,6:00,1,23,22,1,1,0,0,0,0,0,0
+Hydrovegen,19.03.2023,6:00,2,8,5,2,2,0,0,0,0,0,0
+Hydrovegen,19.03.2023,6:00,Totalt i retning Herøya industripark,23,22,1,1,0,0,0,0,0,0
+Hydrovegen,19.03.2023,6:00,Totalt i retning Kulltangen,8,5,2,2,0,0,0,0,0,0
+Hydrovegen,19.03.2023,6:00,Totalt,31,27,3,3,0,0,0,0,0,0
+Hydrovegen,19.03.2023,7:00,1,59,58,1,1,0,0,0,0,0,0
+Hydrovegen,19.03.2023,7:00,2,53,44,8,7,1,0,0,0,0,1
+Hydrovegen,19.03.2023,7:00,Totalt i retning Herøya industripark,59,58,1,1,0,0,0,0,0,0
+Hydrovegen,19.03.2023,7:00,Totalt i retning Kulltangen,53,44,8,7,1,0,0,0,0,1
+Hydrovegen,19.03.2023,7:00,Totalt,112,102,9,8,1,0,0,0,0,1
+Hydrovegen,19.03.2023,8:00,1,41,39,2,1,1,0,0,0,0,1
+Hydrovegen,19.03.2023,8:00,2,20,17,3,2,0,0,1,1,0,1
+Hydrovegen,19.03.2023,8:00,Totalt i retning Herøya industripark,41,39,2,1,1,0,0,0,0,1
+Hydrovegen,19.03.2023,8:00,Totalt i retning Kulltangen,20,17,3,2,0,0,1,1,0,1
+Hydrovegen,19.03.2023,8:00,Totalt,61,56,5,3,1,0,1,1,0,2
+Hydrovegen,19.03.2023,9:00,1,18,11,7,7,0,0,0,0,0,0
+Hydrovegen,19.03.2023,9:00,2,11,10,1,1,0,0,0,0,0,0
+Hydrovegen,19.03.2023,9:00,Totalt i retning Herøya industripark,18,11,7,7,0,0,0,0,0,0
+Hydrovegen,19.03.2023,9:00,Totalt i retning Kulltangen,11,10,1,1,0,0,0,0,0,0
+Hydrovegen,19.03.2023,9:00,Totalt,29,21,8,8,0,0,0,0,0,0
+Hydrovegen,19.03.2023,10:00,1,24,20,4,0,3,0,1,1,0,4
+Hydrovegen,19.03.2023,10:00,2,14,9,5,3,2,0,0,0,0,2
+Hydrovegen,19.03.2023,10:00,Totalt i retning Herøya industripark,24,20,4,0,3,0,1,1,0,4
+Hydrovegen,19.03.2023,10:00,Totalt i retning Kulltangen,14,9,5,3,2,0,0,0,0,2
+Hydrovegen,19.03.2023,10:00,Totalt,38,29,9,3,5,0,1,1,0,6
+Hydrovegen,19.03.2023,11:00,1,24,18,6,3,2,1,0,0,0,3
+Hydrovegen,19.03.2023,11:00,2,20,16,4,3,0,0,1,1,0,1
+Hydrovegen,19.03.2023,11:00,Totalt i retning Herøya industripark,24,18,6,3,2,1,0,0,0,3
+Hydrovegen,19.03.2023,11:00,Totalt i retning Kulltangen,20,16,4,3,0,0,1,1,0,1
+Hydrovegen,19.03.2023,11:00,Totalt,44,34,10,6,2,1,1,1,0,4
+Hydrovegen,19.03.2023,12:00,1,45,39,6,4,0,1,1,1,0,2
+Hydrovegen,19.03.2023,12:00,2,33,29,4,3,0,0,1,1,0,1
+Hydrovegen,19.03.2023,12:00,Totalt i retning Herøya industripark,45,39,6,4,0,1,1,1,0,2
+Hydrovegen,19.03.2023,12:00,Totalt i retning Kulltangen,33,29,4,3,0,0,1,1,0,1
+Hydrovegen,19.03.2023,12:00,Totalt,78,68,10,7,0,1,2,2,0,3
+Hydrovegen,19.03.2023,13:00,1,40,39,1,1,0,0,0,0,0,0
+Hydrovegen,19.03.2023,13:00,2,39,29,10,5,3,1,1,1,0,5
+Hydrovegen,19.03.2023,13:00,Totalt i retning Herøya industripark,40,39,1,1,0,0,0,0,0,0
+Hydrovegen,19.03.2023,13:00,Totalt i retning Kulltangen,39,29,10,5,3,1,1,1,0,5
+Hydrovegen,19.03.2023,13:00,Totalt,79,68,11,6,3,1,1,1,0,5
+Hydrovegen,19.03.2023,14:00,1,51,48,3,3,0,0,0,0,0,0
+Hydrovegen,19.03.2023,14:00,2,49,37,11,10,0,0,1,1,0,1
+Hydrovegen,19.03.2023,14:00,Totalt i retning Herøya industripark,51,48,3,3,0,0,0,0,0,0
+Hydrovegen,19.03.2023,14:00,Totalt i retning Kulltangen,49,37,11,10,0,0,1,1,0,1
+Hydrovegen,19.03.2023,14:00,Totalt,100,85,14,13,0,0,1,1,0,1
+Hydrovegen,19.03.2023,15:00,1,55,46,9,4,4,1,0,0,0,5
+Hydrovegen,19.03.2023,15:00,2,45,39,5,3,2,0,0,0,0,2
+Hydrovegen,19.03.2023,15:00,Totalt i retning Herøya industripark,55,46,9,4,4,1,0,0,0,5
+Hydrovegen,19.03.2023,15:00,Totalt i retning Kulltangen,45,39,5,3,2,0,0,0,0,2
+Hydrovegen,19.03.2023,15:00,Totalt,100,85,14,7,6,1,0,0,0,7
+Hydrovegen,19.03.2023,16:00,1,66,61,5,2,1,1,1,1,0,3
+Hydrovegen,19.03.2023,16:00,2,53,39,13,13,0,0,0,0,0,0
+Hydrovegen,19.03.2023,16:00,Totalt i retning Herøya industripark,66,61,5,2,1,1,1,1,0,3
+Hydrovegen,19.03.2023,16:00,Totalt i retning Kulltangen,53,39,13,13,0,0,0,0,0,0
+Hydrovegen,19.03.2023,16:00,Totalt,119,100,18,15,1,1,1,1,0,3
+Hydrovegen,19.03.2023,17:00,1,46,42,4,2,1,1,0,0,0,2
+Hydrovegen,19.03.2023,17:00,2,36,28,8,6,2,0,0,0,0,2
+Hydrovegen,19.03.2023,17:00,Totalt i retning Herøya industripark,46,42,4,2,1,1,0,0,0,2
+Hydrovegen,19.03.2023,17:00,Totalt i retning Kulltangen,36,28,8,6,2,0,0,0,0,2
+Hydrovegen,19.03.2023,17:00,Totalt,82,70,12,8,3,1,0,0,0,4
+Hydrovegen,19.03.2023,18:00,1,49,46,3,1,2,0,0,0,0,2
+Hydrovegen,19.03.2023,18:00,2,56,42,13,7,1,1,4,4,0,6
+Hydrovegen,19.03.2023,18:00,Totalt i retning Herøya industripark,49,46,3,1,2,0,0,0,0,2
+Hydrovegen,19.03.2023,18:00,Totalt i retning Kulltangen,56,42,13,7,1,1,4,4,0,6
+Hydrovegen,19.03.2023,18:00,Totalt,105,88,16,8,3,1,4,4,0,8
+Hydrovegen,19.03.2023,19:00,1,88,85,3,3,0,0,0,0,0,0
+Hydrovegen,19.03.2023,19:00,2,70,63,7,5,0,0,2,1,1,2
+Hydrovegen,19.03.2023,19:00,Totalt i retning Herøya industripark,88,85,3,3,0,0,0,0,0,0
+Hydrovegen,19.03.2023,19:00,Totalt i retning Kulltangen,70,63,7,5,0,0,2,1,1,2
+Hydrovegen,19.03.2023,19:00,Totalt,158,148,10,8,0,0,2,1,1,2
+Hydrovegen,19.03.2023,20:00,1,46,42,4,2,1,0,1,1,0,2
+Hydrovegen,19.03.2023,20:00,2,61,48,12,10,1,0,1,1,0,2
+Hydrovegen,19.03.2023,20:00,Totalt i retning Herøya industripark,46,42,4,2,1,0,1,1,0,2
+Hydrovegen,19.03.2023,20:00,Totalt i retning Kulltangen,61,48,12,10,1,0,1,1,0,2
+Hydrovegen,19.03.2023,20:00,Totalt,107,90,16,12,2,0,2,2,0,4
+Hydrovegen,19.03.2023,21:00,1,38,33,5,3,1,1,0,0,0,2
+Hydrovegen,19.03.2023,21:00,2,29,19,9,6,3,0,0,0,0,3
+Hydrovegen,19.03.2023,21:00,Totalt i retning Herøya industripark,38,33,5,3,1,1,0,0,0,2
+Hydrovegen,19.03.2023,21:00,Totalt i retning Kulltangen,29,19,9,6,3,0,0,0,0,3
+Hydrovegen,19.03.2023,21:00,Totalt,67,52,14,9,4,1,0,0,0,5
+Hydrovegen,19.03.2023,22:00,1,29,29,0,0,0,0,0,0,0,0
+Hydrovegen,19.03.2023,22:00,2,31,25,5,5,0,0,0,0,0,0
+Hydrovegen,19.03.2023,22:00,Totalt i retning Herøya industripark,29,29,0,0,0,0,0,0,0,0
+Hydrovegen,19.03.2023,22:00,Totalt i retning Kulltangen,31,25,5,5,0,0,0,0,0,0
+Hydrovegen,19.03.2023,22:00,Totalt,60,54,5,5,0,0,0,0,0,0
+Hydrovegen,19.03.2023,23:00,1,11,10,1,1,0,0,0,0,0,0
+Hydrovegen,19.03.2023,23:00,2,17,12,4,4,0,0,0,0,0,0
+Hydrovegen,19.03.2023,23:00,Totalt i retning Herøya industripark,11,10,1,1,0,0,0,0,0,0
+Hydrovegen,19.03.2023,23:00,Totalt i retning Kulltangen,17,12,4,4,0,0,0,0,0,0
+Hydrovegen,19.03.2023,23:00,Totalt,28,22,5,5,0,0,0,0,0,0
+Hydrovegen,19.03.2023,0:00,1,7,4,3,0,0,0,3,3,0,3
+Hydrovegen,19.03.2023,0:00,2,9,9,0,0,0,0,0,0,0,0
+Hydrovegen,19.03.2023,0:00,Totalt i retning Herøya industripark,7,4,3,0,0,0,3,3,0,3
+Hydrovegen,19.03.2023,0:00,Totalt i retning Kulltangen,9,9,0,0,0,0,0,0,0,0
+Hydrovegen,19.03.2023,0:00,Totalt,16,13,3,0,0,0,3,3,0,3
+Hydrovegen,20.03.2023,1:00,1,0,0,0,0,0,0,0,0,0,0
+Hydrovegen,20.03.2023,1:00,2,3,3,0,0,0,0,0,0,0,0
+Hydrovegen,20.03.2023,1:00,Totalt i retning Herøya industripark,0,0,0,0,0,0,0,0,0,0
+Hydrovegen,20.03.2023,1:00,Totalt i retning Kulltangen,3,3,0,0,0,0,0,0,0,0
+Hydrovegen,20.03.2023,1:00,Totalt,3,3,0,0,0,0,0,0,0,0
+Hydrovegen,20.03.2023,2:00,1,2,1,1,1,0,0,0,0,0,0
+Hydrovegen,20.03.2023,2:00,2,3,3,0,0,0,0,0,0,0,0
+Hydrovegen,20.03.2023,2:00,Totalt i retning Herøya industripark,2,1,1,1,0,0,0,0,0,0
+Hydrovegen,20.03.2023,2:00,Totalt i retning Kulltangen,3,3,0,0,0,0,0,0,0,0
+Hydrovegen,20.03.2023,2:00,Totalt,5,4,1,1,0,0,0,0,0,0
+Hydrovegen,20.03.2023,3:00,1,2,1,1,0,1,0,0,0,0,1
+Hydrovegen,20.03.2023,3:00,2,4,2,2,2,0,0,0,0,0,0
+Hydrovegen,20.03.2023,3:00,Totalt i retning Herøya industripark,2,1,1,0,1,0,0,0,0,1
+Hydrovegen,20.03.2023,3:00,Totalt i retning Kulltangen,4,2,2,2,0,0,0,0,0,0
+Hydrovegen,20.03.2023,3:00,Totalt,6,3,3,2,1,0,0,0,0,1
+Hydrovegen,20.03.2023,4:00,1,3,0,3,2,0,1,0,0,0,1
+Hydrovegen,20.03.2023,4:00,2,4,2,2,2,0,0,0,0,0,0
+Hydrovegen,20.03.2023,4:00,Totalt i retning Herøya industripark,3,0,3,2,0,1,0,0,0,1
+Hydrovegen,20.03.2023,4:00,Totalt i retning Kulltangen,4,2,2,2,0,0,0,0,0,0
+Hydrovegen,20.03.2023,4:00,Totalt,7,2,5,4,0,1,0,0,0,1
+Hydrovegen,20.03.2023,5:00,1,6,4,2,2,0,0,0,0,0,0
+Hydrovegen,20.03.2023,5:00,2,10,6,4,3,0,0,1,1,0,1
+Hydrovegen,20.03.2023,5:00,Totalt i retning Herøya industripark,6,4,2,2,0,0,0,0,0,0
+Hydrovegen,20.03.2023,5:00,Totalt i retning Kulltangen,10,6,4,3,0,0,1,1,0,1
+Hydrovegen,20.03.2023,5:00,Totalt,16,10,6,5,0,0,1,1,0,1
+Hydrovegen,20.03.2023,6:00,1,68,64,4,2,1,1,0,0,0,2
+Hydrovegen,20.03.2023,6:00,2,14,8,6,0,5,0,1,1,0,6
+Hydrovegen,20.03.2023,6:00,Totalt i retning Herøya industripark,68,64,4,2,1,1,0,0,0,2
+Hydrovegen,20.03.2023,6:00,Totalt i retning Kulltangen,14,8,6,0,5,0,1,1,0,6
+Hydrovegen,20.03.2023,6:00,Totalt,82,72,10,2,6,1,1,1,0,8
+Hydrovegen,20.03.2023,7:00,1,466,449,17,7,6,3,1,1,0,10
+Hydrovegen,20.03.2023,7:00,2,95,53,26,12,7,2,5,5,0,14
+Hydrovegen,20.03.2023,7:00,Totalt i retning Herøya industripark,466,449,17,7,6,3,1,1,0,10
+Hydrovegen,20.03.2023,7:00,Totalt i retning Kulltangen,95,53,26,12,7,2,5,5,0,14
+Hydrovegen,20.03.2023,7:00,Totalt,561,502,43,19,13,5,6,6,0,24
+Hydrovegen,20.03.2023,8:00,1,485,458,27,4,14,5,4,4,0,23
+Hydrovegen,20.03.2023,8:00,2,146,94,27,17,5,3,2,2,0,10
+Hydrovegen,20.03.2023,8:00,Totalt i retning Herøya industripark,485,458,27,4,14,5,4,4,0,23
+Hydrovegen,20.03.2023,8:00,Totalt i retning Kulltangen,146,94,27,17,5,3,2,2,0,10
+Hydrovegen,20.03.2023,8:00,Totalt,631,552,54,21,19,8,6,6,0,33
+Hydrovegen,20.03.2023,9:00,1,246,211,34,12,13,2,7,7,0,22
+Hydrovegen,20.03.2023,9:00,2,103,60,34,17,10,5,2,2,0,17
+Hydrovegen,20.03.2023,9:00,Totalt i retning Herøya industripark,246,211,34,12,13,2,7,7,0,22
+Hydrovegen,20.03.2023,9:00,Totalt i retning Kulltangen,103,60,34,17,10,5,2,2,0,17
+Hydrovegen,20.03.2023,9:00,Totalt,349,271,68,29,23,7,9,9,0,39
+Hydrovegen,20.03.2023,10:00,1,119,87,32,8,12,3,9,9,0,24
+Hydrovegen,20.03.2023,10:00,2,108,61,37,21,8,5,3,2,1,16
+Hydrovegen,20.03.2023,10:00,Totalt i retning Herøya industripark,119,87,32,8,12,3,9,9,0,24
+Hydrovegen,20.03.2023,10:00,Totalt i retning Kulltangen,108,61,37,21,8,5,3,2,1,16
+Hydrovegen,20.03.2023,10:00,Totalt,227,148,69,29,20,8,12,11,1,40
+Hydrovegen,20.03.2023,11:00,1,145,106,39,12,13,5,9,9,0,27
+Hydrovegen,20.03.2023,11:00,2,126,70,48,25,9,1,13,13,0,23
+Hydrovegen,20.03.2023,11:00,Totalt i retning Herøya industripark,145,106,39,12,13,5,9,9,0,27
+Hydrovegen,20.03.2023,11:00,Totalt i retning Kulltangen,126,70,48,25,9,1,13,13,0,23
+Hydrovegen,20.03.2023,11:00,Totalt,271,176,87,37,22,6,22,22,0,50
+Hydrovegen,20.03.2023,12:00,1,158,127,31,12,7,7,5,5,0,19
+Hydrovegen,20.03.2023,12:00,2,160,103,50,30,9,1,10,10,0,20
+Hydrovegen,20.03.2023,12:00,Totalt i retning Herøya industripark,158,127,31,12,7,7,5,5,0,19
+Hydrovegen,20.03.2023,12:00,Totalt i retning Kulltangen,160,103,50,30,9,1,10,10,0,20
+Hydrovegen,20.03.2023,12:00,Totalt,318,230,81,42,16,8,15,15,0,39
+Hydrovegen,20.03.2023,13:00,1,147,118,29,4,10,4,11,11,0,25
+Hydrovegen,20.03.2023,13:00,2,141,78,47,19,9,5,14,14,0,28
+Hydrovegen,20.03.2023,13:00,Totalt i retning Herøya industripark,147,118,29,4,10,4,11,11,0,25
+Hydrovegen,20.03.2023,13:00,Totalt i retning Kulltangen,141,78,47,19,9,5,14,14,0,28
+Hydrovegen,20.03.2023,13:00,Totalt,288,196,76,23,19,9,25,25,0,53
+Hydrovegen,20.03.2023,14:00,1,141,114,27,4,8,5,10,10,0,23
+Hydrovegen,20.03.2023,14:00,2,197,127,54,37,3,2,12,12,0,17
+Hydrovegen,20.03.2023,14:00,Totalt i retning Herøya industripark,141,114,27,4,8,5,10,10,0,23
+Hydrovegen,20.03.2023,14:00,Totalt i retning Kulltangen,197,127,54,37,3,2,12,12,0,17
+Hydrovegen,20.03.2023,14:00,Totalt,338,241,81,41,11,7,22,22,0,40
+Hydrovegen,20.03.2023,15:00,1,188,155,33,8,11,7,7,7,0,25
+Hydrovegen,20.03.2023,15:00,2,309,207,83,57,8,6,12,11,1,26
+Hydrovegen,20.03.2023,15:00,Totalt i retning Herøya industripark,188,155,33,8,11,7,7,7,0,25
+Hydrovegen,20.03.2023,15:00,Totalt i retning Kulltangen,309,207,83,57,8,6,12,11,1,26
+Hydrovegen,20.03.2023,15:00,Totalt,497,362,116,65,19,13,19,18,1,51
+Hydrovegen,20.03.2023,16:00,1,203,167,35,8,9,11,7,7,0,27
+Hydrovegen,20.03.2023,16:00,2,124,94,21,18,0,3,0,0,0,3
+Hydrovegen,20.03.2023,16:00,Totalt i retning Herøya industripark,203,167,35,8,9,11,7,7,0,27
+Hydrovegen,20.03.2023,16:00,Totalt i retning Kulltangen,124,94,21,18,0,3,0,0,0,3
+Hydrovegen,20.03.2023,16:00,Totalt,327,261,56,26,9,14,7,7,0,30
+Hydrovegen,20.03.2023,17:00,1,141,124,17,6,3,5,3,3,0,11
+Hydrovegen,20.03.2023,17:00,2,168,128,31,24,2,3,2,2,0,7
+Hydrovegen,20.03.2023,17:00,Totalt i retning Herøya industripark,141,124,17,6,3,5,3,3,0,11
+Hydrovegen,20.03.2023,17:00,Totalt i retning Kulltangen,168,128,31,24,2,3,2,2,0,7
+Hydrovegen,20.03.2023,17:00,Totalt,309,252,48,30,5,8,5,5,0,18
+Hydrovegen,20.03.2023,18:00,1,81,67,14,3,6,1,4,4,0,11
+Hydrovegen,20.03.2023,18:00,2,129,83,38,25,6,3,4,4,0,13
+Hydrovegen,20.03.2023,18:00,Totalt i retning Herøya industripark,81,67,14,3,6,1,4,4,0,11
+Hydrovegen,20.03.2023,18:00,Totalt i retning Kulltangen,129,83,38,25,6,3,4,4,0,13
+Hydrovegen,20.03.2023,18:00,Totalt,210,150,52,28,12,4,8,8,0,24
+Hydrovegen,20.03.2023,19:00,1,81,74,7,2,2,1,2,2,0,5
+Hydrovegen,20.03.2023,19:00,2,111,84,26,19,6,0,1,1,0,7
+Hydrovegen,20.03.2023,19:00,Totalt i retning Herøya industripark,81,74,7,2,2,1,2,2,0,5
+Hydrovegen,20.03.2023,19:00,Totalt i retning Kulltangen,111,84,26,19,6,0,1,1,0,7
+Hydrovegen,20.03.2023,19:00,Totalt,192,158,33,21,8,1,3,3,0,12
+Hydrovegen,20.03.2023,20:00,1,65,56,9,2,3,2,2,2,0,7
+Hydrovegen,20.03.2023,20:00,2,111,78,32,25,3,1,3,3,0,7
+Hydrovegen,20.03.2023,20:00,Totalt i retning Herøya industripark,65,56,9,2,3,2,2,2,0,7
+Hydrovegen,20.03.2023,20:00,Totalt i retning Kulltangen,111,78,32,25,3,1,3,3,0,7
+Hydrovegen,20.03.2023,20:00,Totalt,176,134,41,27,6,3,5,5,0,14
+Hydrovegen,20.03.2023,21:00,1,45,41,4,3,1,0,0,0,0,1
+Hydrovegen,20.03.2023,21:00,2,63,52,10,7,1,1,1,1,0,3
+Hydrovegen,20.03.2023,21:00,Totalt i retning Herøya industripark,45,41,4,3,1,0,0,0,0,1
+Hydrovegen,20.03.2023,21:00,Totalt i retning Kulltangen,63,52,10,7,1,1,1,1,0,3
+Hydrovegen,20.03.2023,21:00,Totalt,108,93,14,10,2,1,1,1,0,4
+Hydrovegen,20.03.2023,22:00,1,50,45,5,1,1,2,1,1,0,4
+Hydrovegen,20.03.2023,22:00,2,51,38,11,10,1,0,0,0,0,1
+Hydrovegen,20.03.2023,22:00,Totalt i retning Herøya industripark,50,45,5,1,1,2,1,1,0,4
+Hydrovegen,20.03.2023,22:00,Totalt i retning Kulltangen,51,38,11,10,1,0,0,0,0,1
+Hydrovegen,20.03.2023,22:00,Totalt,101,83,16,11,2,2,1,1,0,5
+Hydrovegen,20.03.2023,23:00,1,52,47,5,1,4,0,0,0,0,4
+Hydrovegen,20.03.2023,23:00,2,68,52,16,11,4,1,0,0,0,5
+Hydrovegen,20.03.2023,23:00,Totalt i retning Herøya industripark,52,47,5,1,4,0,0,0,0,4
+Hydrovegen,20.03.2023,23:00,Totalt i retning Kulltangen,68,52,16,11,4,1,0,0,0,5
+Hydrovegen,20.03.2023,23:00,Totalt,120,99,21,12,8,1,0,0,0,9
+Hydrovegen,20.03.2023,0:00,1,10,9,1,1,0,0,0,0,0,0
+Hydrovegen,20.03.2023,0:00,2,25,21,4,3,1,0,0,0,0,1
+Hydrovegen,20.03.2023,0:00,Totalt i retning Herøya industripark,10,9,1,1,0,0,0,0,0,0
+Hydrovegen,20.03.2023,0:00,Totalt i retning Kulltangen,25,21,4,3,1,0,0,0,0,1
+Hydrovegen,20.03.2023,0:00,Totalt,35,30,5,4,1,0,0,0,0,1
+Hydrovegen,21.03.2023,1:00,1,3,3,0,0,0,0,0,0,0,0
+Hydrovegen,21.03.2023,1:00,2,3,0,3,3,0,0,0,0,0,0
+Hydrovegen,21.03.2023,1:00,Totalt i retning Herøya industripark,3,3,0,0,0,0,0,0,0,0
+Hydrovegen,21.03.2023,1:00,Totalt i retning Kulltangen,3,0,3,3,0,0,0,0,0,0
+Hydrovegen,21.03.2023,1:00,Totalt,6,3,3,3,0,0,0,0,0,0
+Hydrovegen,21.03.2023,2:00,1,4,2,2,2,0,0,0,0,0,0
+Hydrovegen,21.03.2023,2:00,2,1,1,0,0,0,0,0,0,0,0
+Hydrovegen,21.03.2023,2:00,Totalt i retning Herøya industripark,4,2,2,2,0,0,0,0,0,0
+Hydrovegen,21.03.2023,2:00,Totalt i retning Kulltangen,1,1,0,0,0,0,0,0,0,0
+Hydrovegen,21.03.2023,2:00,Totalt,5,3,2,2,0,0,0,0,0,0
+Hydrovegen,21.03.2023,3:00,1,2,2,0,0,0,0,0,0,0,0
+Hydrovegen,21.03.2023,3:00,2,6,5,1,1,0,0,0,0,0,0
+Hydrovegen,21.03.2023,3:00,Totalt i retning Herøya industripark,2,2,0,0,0,0,0,0,0,0
+Hydrovegen,21.03.2023,3:00,Totalt i retning Kulltangen,6,5,1,1,0,0,0,0,0,0
+Hydrovegen,21.03.2023,3:00,Totalt,8,7,1,1,0,0,0,0,0,0
+Hydrovegen,21.03.2023,4:00,1,1,1,0,0,0,0,0,0,0,0
+Hydrovegen,21.03.2023,4:00,2,5,4,1,1,0,0,0,0,0,0
+Hydrovegen,21.03.2023,4:00,Totalt i retning Herøya industripark,1,1,0,0,0,0,0,0,0,0
+Hydrovegen,21.03.2023,4:00,Totalt i retning Kulltangen,5,4,1,1,0,0,0,0,0,0
+Hydrovegen,21.03.2023,4:00,Totalt,6,5,1,1,0,0,0,0,0,0
+Hydrovegen,21.03.2023,5:00,1,3,2,1,1,0,0,0,0,0,0
+Hydrovegen,21.03.2023,5:00,2,3,0,3,2,0,0,1,1,0,1
+Hydrovegen,21.03.2023,5:00,Totalt i retning Herøya industripark,3,2,1,1,0,0,0,0,0,0
+Hydrovegen,21.03.2023,5:00,Totalt i retning Kulltangen,3,0,3,2,0,0,1,1,0,1
+Hydrovegen,21.03.2023,5:00,Totalt,6,2,4,3,0,0,1,1,0,1
+Hydrovegen,21.03.2023,6:00,1,60,54,6,3,2,1,0,0,0,3
+Hydrovegen,21.03.2023,6:00,2,17,11,6,2,3,0,1,1,0,4
+Hydrovegen,21.03.2023,6:00,Totalt i retning Herøya industripark,60,54,6,3,2,1,0,0,0,3
+Hydrovegen,21.03.2023,6:00,Totalt i retning Kulltangen,17,11,6,2,3,0,1,1,0,4
+Hydrovegen,21.03.2023,6:00,Totalt,77,65,12,5,5,1,1,1,0,7
+Hydrovegen,21.03.2023,7:00,1,492,473,19,10,6,1,2,2,0,9
+Hydrovegen,21.03.2023,7:00,2,99,60,20,8,8,3,1,1,0,12
+Hydrovegen,21.03.2023,7:00,Totalt i retning Herøya industripark,492,473,19,10,6,1,2,2,0,9
+Hydrovegen,21.03.2023,7:00,Totalt i retning Kulltangen,99,60,20,8,8,3,1,1,0,12
+Hydrovegen,21.03.2023,7:00,Totalt,591,533,39,18,14,4,3,3,0,21
+Hydrovegen,21.03.2023,8:00,1,494,461,33,11,8,8,6,6,0,22
+Hydrovegen,21.03.2023,8:00,2,139,65,37,21,7,3,6,6,0,16
+Hydrovegen,21.03.2023,8:00,Totalt i retning Herøya industripark,494,461,33,11,8,8,6,6,0,22
+Hydrovegen,21.03.2023,8:00,Totalt i retning Kulltangen,139,65,37,21,7,3,6,6,0,16
+Hydrovegen,21.03.2023,8:00,Totalt,633,526,70,32,15,11,12,12,0,38
+Hydrovegen,21.03.2023,9:00,1,302,256,46,9,16,10,11,11,0,37
+Hydrovegen,21.03.2023,9:00,2,134,60,47,28,9,0,10,10,0,19
+Hydrovegen,21.03.2023,9:00,Totalt i retning Herøya industripark,302,256,46,9,16,10,11,11,0,37
+Hydrovegen,21.03.2023,9:00,Totalt i retning Kulltangen,134,60,47,28,9,0,10,10,0,19
+Hydrovegen,21.03.2023,9:00,Totalt,436,316,93,37,25,10,21,21,0,56
+Hydrovegen,21.03.2023,10:00,1,125,83,42,14,10,7,11,11,0,28
+Hydrovegen,21.03.2023,10:00,2,130,72,50,27,4,3,16,16,0,23
+Hydrovegen,21.03.2023,10:00,Totalt i retning Herøya industripark,125,83,42,14,10,7,11,11,0,28
+Hydrovegen,21.03.2023,10:00,Totalt i retning Kulltangen,130,72,50,27,4,3,16,16,0,23
+Hydrovegen,21.03.2023,10:00,Totalt,255,155,92,41,14,10,27,27,0,51
+Hydrovegen,21.03.2023,11:00,1,113,87,26,6,5,8,7,7,0,20
+Hydrovegen,21.03.2023,11:00,2,140,87,45,23,9,4,9,9,0,22
+Hydrovegen,21.03.2023,11:00,Totalt i retning Herøya industripark,113,87,26,6,5,8,7,7,0,20
+Hydrovegen,21.03.2023,11:00,Totalt i retning Kulltangen,140,87,45,23,9,4,9,9,0,22
+Hydrovegen,21.03.2023,11:00,Totalt,253,174,71,29,14,12,16,16,0,42
+Hydrovegen,21.03.2023,12:00,1,115,89,26,7,9,5,5,5,0,19
+Hydrovegen,21.03.2023,12:00,2,127,78,48,27,6,4,11,11,0,21
+Hydrovegen,21.03.2023,12:00,Totalt i retning Herøya industripark,115,89,26,7,9,5,5,5,0,19
+Hydrovegen,21.03.2023,12:00,Totalt i retning Kulltangen,127,78,48,27,6,4,11,11,0,21
+Hydrovegen,21.03.2023,12:00,Totalt,242,167,74,34,15,9,16,16,0,40
+Hydrovegen,21.03.2023,13:00,1,130,91,39,11,12,7,9,9,0,28
+Hydrovegen,21.03.2023,13:00,2,127,72,47,30,6,1,10,10,0,17
+Hydrovegen,21.03.2023,13:00,Totalt i retning Herøya industripark,130,91,39,11,12,7,9,9,0,28
+Hydrovegen,21.03.2023,13:00,Totalt i retning Kulltangen,127,72,47,30,6,1,10,10,0,17
+Hydrovegen,21.03.2023,13:00,Totalt,257,163,86,41,18,8,19,19,0,45
+Hydrovegen,21.03.2023,14:00,1,161,128,33,7,11,10,5,5,0,26
+Hydrovegen,21.03.2023,14:00,2,166,106,52,25,14,6,7,7,0,27
+Hydrovegen,21.03.2023,14:00,Totalt i retning Herøya industripark,161,128,33,7,11,10,5,5,0,26
+Hydrovegen,21.03.2023,14:00,Totalt i retning Kulltangen,166,106,52,25,14,6,7,7,0,27
+Hydrovegen,21.03.2023,14:00,Totalt,327,234,85,32,25,16,12,12,0,53
+Hydrovegen,21.03.2023,15:00,1,163,131,32,10,10,7,5,5,0,22
+Hydrovegen,21.03.2023,15:00,2,274,181,68,44,14,1,9,9,0,24
+Hydrovegen,21.03.2023,15:00,Totalt i retning Herøya industripark,163,131,32,10,10,7,5,5,0,22
+Hydrovegen,21.03.2023,15:00,Totalt i retning Kulltangen,274,181,68,44,14,1,9,9,0,24
+Hydrovegen,21.03.2023,15:00,Totalt,437,312,100,54,24,8,14,14,0,46
+Hydrovegen,21.03.2023,16:00,1,178,152,25,8,7,7,3,3,0,17
+Hydrovegen,21.03.2023,16:00,2,105,75,26,22,1,2,1,1,0,4
+Hydrovegen,21.03.2023,16:00,Totalt i retning Herøya industripark,178,152,25,8,7,7,3,3,0,17
+Hydrovegen,21.03.2023,16:00,Totalt i retning Kulltangen,105,75,26,22,1,2,1,1,0,4
+Hydrovegen,21.03.2023,16:00,Totalt,283,227,51,30,8,9,4,4,0,21
+Hydrovegen,21.03.2023,17:00,1,128,109,19,3,7,4,5,5,0,16
+Hydrovegen,21.03.2023,17:00,2,241,182,41,32,5,1,3,3,0,9
+Hydrovegen,21.03.2023,17:00,Totalt i retning Herøya industripark,128,109,19,3,7,4,5,5,0,16
+Hydrovegen,21.03.2023,17:00,Totalt i retning Kulltangen,241,182,41,32,5,1,3,3,0,9
+Hydrovegen,21.03.2023,17:00,Totalt,369,291,60,35,12,5,8,8,0,25
+Hydrovegen,21.03.2023,18:00,1,59,55,4,0,4,0,0,0,0,4
+Hydrovegen,21.03.2023,18:00,2,102,86,14,8,3,2,1,1,0,6
+Hydrovegen,21.03.2023,18:00,Totalt i retning Herøya industripark,59,55,4,0,4,0,0,0,0,4
+Hydrovegen,21.03.2023,18:00,Totalt i retning Kulltangen,102,86,14,8,3,2,1,1,0,6
+Hydrovegen,21.03.2023,18:00,Totalt,161,141,18,8,7,2,1,1,0,10
+Hydrovegen,21.03.2023,19:00,1,70,64,6,4,2,0,0,0,0,2
+Hydrovegen,21.03.2023,19:00,2,105,77,27,22,2,0,3,3,0,5
+Hydrovegen,21.03.2023,19:00,Totalt i retning Herøya industripark,70,64,6,4,2,0,0,0,0,2
+Hydrovegen,21.03.2023,19:00,Totalt i retning Kulltangen,105,77,27,22,2,0,3,3,0,5
+Hydrovegen,21.03.2023,19:00,Totalt,175,141,33,26,4,0,3,3,0,7
+Hydrovegen,21.03.2023,20:00,1,59,52,7,3,2,1,1,1,0,4
+Hydrovegen,21.03.2023,20:00,2,98,72,23,19,3,1,0,0,0,4
+Hydrovegen,21.03.2023,20:00,Totalt i retning Herøya industripark,59,52,7,3,2,1,1,1,0,4
+Hydrovegen,21.03.2023,20:00,Totalt i retning Kulltangen,98,72,23,19,3,1,0,0,0,4
+Hydrovegen,21.03.2023,20:00,Totalt,157,124,30,22,5,2,1,1,0,8
+Hydrovegen,21.03.2023,21:00,1,45,40,5,2,2,1,0,0,0,3
+Hydrovegen,21.03.2023,21:00,2,64,46,15,12,1,0,2,2,0,3
+Hydrovegen,21.03.2023,21:00,Totalt i retning Herøya industripark,45,40,5,2,2,1,0,0,0,3
+Hydrovegen,21.03.2023,21:00,Totalt i retning Kulltangen,64,46,15,12,1,0,2,2,0,3
+Hydrovegen,21.03.2023,21:00,Totalt,109,86,20,14,3,1,2,2,0,6
+Hydrovegen,21.03.2023,22:00,1,37,32,5,1,3,0,1,1,0,4
+Hydrovegen,21.03.2023,22:00,2,52,38,13,10,2,1,0,0,0,3
+Hydrovegen,21.03.2023,22:00,Totalt i retning Herøya industripark,37,32,5,1,3,0,1,1,0,4
+Hydrovegen,21.03.2023,22:00,Totalt i retning Kulltangen,52,38,13,10,2,1,0,0,0,3
+Hydrovegen,21.03.2023,22:00,Totalt,89,70,18,11,5,1,1,1,0,7
+Hydrovegen,21.03.2023,23:00,1,45,42,3,2,1,0,0,0,0,1
+Hydrovegen,21.03.2023,23:00,2,61,48,12,9,3,0,0,0,0,3
+Hydrovegen,21.03.2023,23:00,Totalt i retning Herøya industripark,45,42,3,2,1,0,0,0,0,1
+Hydrovegen,21.03.2023,23:00,Totalt i retning Kulltangen,61,48,12,9,3,0,0,0,0,3
+Hydrovegen,21.03.2023,23:00,Totalt,106,90,15,11,4,0,0,0,0,4
+Hydrovegen,21.03.2023,0:00,1,12,10,2,1,0,0,1,1,0,1
+Hydrovegen,21.03.2023,0:00,2,16,12,4,4,0,0,0,0,0,0
+Hydrovegen,21.03.2023,0:00,Totalt i retning Herøya industripark,12,10,2,1,0,0,1,1,0,1
+Hydrovegen,21.03.2023,0:00,Totalt i retning Kulltangen,16,12,4,4,0,0,0,0,0,0
+Hydrovegen,21.03.2023,0:00,Totalt,28,22,6,5,0,0,1,1,0,1
+Hydrovegen,22.03.2023,1:00,1,4,4,0,0,0,0,0,0,0,0
+Hydrovegen,22.03.2023,1:00,2,6,6,0,0,0,0,0,0,0,0
+Hydrovegen,22.03.2023,1:00,Totalt i retning Herøya industripark,4,4,0,0,0,0,0,0,0,0
+Hydrovegen,22.03.2023,1:00,Totalt i retning Kulltangen,6,6,0,0,0,0,0,0,0,0
+Hydrovegen,22.03.2023,1:00,Totalt,10,10,0,0,0,0,0,0,0,0
+Hydrovegen,22.03.2023,2:00,1,3,2,1,1,0,0,0,0,0,0
+Hydrovegen,22.03.2023,2:00,2,3,2,1,1,0,0,0,0,0,0
+Hydrovegen,22.03.2023,2:00,Totalt i retning Herøya industripark,3,2,1,1,0,0,0,0,0,0
+Hydrovegen,22.03.2023,2:00,Totalt i retning Kulltangen,3,2,1,1,0,0,0,0,0,0
+Hydrovegen,22.03.2023,2:00,Totalt,6,4,2,2,0,0,0,0,0,0
+Hydrovegen,22.03.2023,3:00,1,2,2,0,0,0,0,0,0,0,0
+Hydrovegen,22.03.2023,3:00,2,6,5,1,1,0,0,0,0,0,0
+Hydrovegen,22.03.2023,3:00,Totalt i retning Herøya industripark,2,2,0,0,0,0,0,0,0,0
+Hydrovegen,22.03.2023,3:00,Totalt i retning Kulltangen,6,5,1,1,0,0,0,0,0,0
+Hydrovegen,22.03.2023,3:00,Totalt,8,7,1,1,0,0,0,0,0,0
+Hydrovegen,22.03.2023,4:00,1,1,1,0,0,0,0,0,0,0,0
+Hydrovegen,22.03.2023,4:00,2,6,4,2,1,0,1,0,0,0,1
+Hydrovegen,22.03.2023,4:00,Totalt i retning Herøya industripark,1,1,0,0,0,0,0,0,0,0
+Hydrovegen,22.03.2023,4:00,Totalt i retning Kulltangen,6,4,2,1,0,1,0,0,0,1
+Hydrovegen,22.03.2023,4:00,Totalt,7,5,2,1,0,1,0,0,0,1
+Hydrovegen,22.03.2023,5:00,1,5,4,1,0,0,1,0,0,0,1
+Hydrovegen,22.03.2023,5:00,2,4,2,2,2,0,0,0,0,0,0
+Hydrovegen,22.03.2023,5:00,Totalt i retning Herøya industripark,5,4,1,0,0,1,0,0,0,1
+Hydrovegen,22.03.2023,5:00,Totalt i retning Kulltangen,4,2,2,2,0,0,0,0,0,0
+Hydrovegen,22.03.2023,5:00,Totalt,9,6,3,2,0,1,0,0,0,1
+Hydrovegen,22.03.2023,6:00,1,52,49,3,1,2,0,0,0,0,2
+Hydrovegen,22.03.2023,6:00,2,16,10,5,0,4,0,1,1,0,5
+Hydrovegen,22.03.2023,6:00,Totalt i retning Herøya industripark,52,49,3,1,2,0,0,0,0,2
+Hydrovegen,22.03.2023,6:00,Totalt i retning Kulltangen,16,10,5,0,4,0,1,1,0,5
+Hydrovegen,22.03.2023,6:00,Totalt,68,59,8,1,6,0,1,1,0,7
+Hydrovegen,22.03.2023,7:00,1,513,490,23,10,4,4,5,5,0,13
+Hydrovegen,22.03.2023,7:00,2,90,47,25,14,7,1,3,3,0,11
+Hydrovegen,22.03.2023,7:00,Totalt i retning Herøya industripark,513,490,23,10,4,4,5,5,0,13
+Hydrovegen,22.03.2023,7:00,Totalt i retning Kulltangen,90,47,25,14,7,1,3,3,0,11
+Hydrovegen,22.03.2023,7:00,Totalt,603,537,48,24,11,5,8,8,0,24
+Hydrovegen,22.03.2023,8:00,1,488,460,28,7,8,6,7,7,0,21
+Hydrovegen,22.03.2023,8:00,2,151,89,38,19,5,5,9,9,0,19
+Hydrovegen,22.03.2023,8:00,Totalt i retning Herøya industripark,488,460,28,7,8,6,7,7,0,21
+Hydrovegen,22.03.2023,8:00,Totalt i retning Kulltangen,151,89,38,19,5,5,9,9,0,19
+Hydrovegen,22.03.2023,8:00,Totalt,639,549,66,26,13,11,16,16,0,40
+Hydrovegen,22.03.2023,9:00,1,265,217,48,16,12,11,9,9,0,32
+Hydrovegen,22.03.2023,9:00,2,113,56,44,18,10,4,12,12,0,26
+Hydrovegen,22.03.2023,9:00,Totalt i retning Herøya industripark,265,217,48,16,12,11,9,9,0,32
+Hydrovegen,22.03.2023,9:00,Totalt i retning Kulltangen,113,56,44,18,10,4,12,12,0,26
+Hydrovegen,22.03.2023,9:00,Totalt,378,273,92,34,22,15,21,21,0,58
+Hydrovegen,22.03.2023,10:00,1,130,87,43,11,11,13,8,8,0,32
+Hydrovegen,22.03.2023,10:00,2,99,52,42,21,10,1,10,10,0,21
+Hydrovegen,22.03.2023,10:00,Totalt i retning Herøya industripark,130,87,43,11,11,13,8,8,0,32
+Hydrovegen,22.03.2023,10:00,Totalt i retning Kulltangen,99,52,42,21,10,1,10,10,0,21
+Hydrovegen,22.03.2023,10:00,Totalt,229,139,85,32,21,14,18,18,0,53
+Hydrovegen,22.03.2023,11:00,1,144,102,42,11,4,9,18,18,0,31
+Hydrovegen,22.03.2023,11:00,2,122,69,49,24,4,1,20,20,0,25
+Hydrovegen,22.03.2023,11:00,Totalt i retning Herøya industripark,144,102,42,11,4,9,18,18,0,31
+Hydrovegen,22.03.2023,11:00,Totalt i retning Kulltangen,122,69,49,24,4,1,20,20,0,25
+Hydrovegen,22.03.2023,11:00,Totalt,266,171,91,35,8,10,38,38,0,56
+Hydrovegen,22.03.2023,12:00,1,130,101,29,6,4,6,13,13,0,23
+Hydrovegen,22.03.2023,12:00,2,147,91,52,29,4,4,15,15,0,23
+Hydrovegen,22.03.2023,12:00,Totalt i retning Herøya industripark,130,101,29,6,4,6,13,13,0,23
+Hydrovegen,22.03.2023,12:00,Totalt i retning Kulltangen,147,91,52,29,4,4,15,15,0,23
+Hydrovegen,22.03.2023,12:00,Totalt,277,192,81,35,8,10,28,28,0,46
+Hydrovegen,22.03.2023,13:00,1,133,95,38,11,9,10,8,8,0,27
+Hydrovegen,22.03.2023,13:00,2,133,70,60,29,8,5,18,18,0,31
+Hydrovegen,22.03.2023,13:00,Totalt i retning Herøya industripark,133,95,38,11,9,10,8,8,0,27
+Hydrovegen,22.03.2023,13:00,Totalt i retning Kulltangen,133,70,60,29,8,5,18,18,0,31
+Hydrovegen,22.03.2023,13:00,Totalt,266,165,98,40,17,15,26,26,0,58
+Hydrovegen,22.03.2023,14:00,1,151,110,41,10,6,16,9,9,0,31
+Hydrovegen,22.03.2023,14:00,2,183,113,63,30,8,5,20,20,0,33
+Hydrovegen,22.03.2023,14:00,Totalt i retning Herøya industripark,151,110,41,10,6,16,9,9,0,31
+Hydrovegen,22.03.2023,14:00,Totalt i retning Kulltangen,183,113,63,30,8,5,20,20,0,33
+Hydrovegen,22.03.2023,14:00,Totalt,334,223,104,40,14,21,29,29,0,64
+Hydrovegen,22.03.2023,15:00,1,180,152,28,8,7,7,6,6,0,20
+Hydrovegen,22.03.2023,15:00,2,268,194,54,29,5,3,17,16,1,25
+Hydrovegen,22.03.2023,15:00,Totalt i retning Herøya industripark,180,152,28,8,7,7,6,6,0,20
+Hydrovegen,22.03.2023,15:00,Totalt i retning Kulltangen,268,194,54,29,5,3,17,16,1,25
+Hydrovegen,22.03.2023,15:00,Totalt,448,346,82,37,12,10,23,22,1,45
+Hydrovegen,22.03.2023,16:00,1,164,143,21,2,7,8,4,4,0,19
+Hydrovegen,22.03.2023,16:00,2,114,85,24,19,3,1,1,1,0,5
+Hydrovegen,22.03.2023,16:00,Totalt i retning Herøya industripark,164,143,21,2,7,8,4,4,0,19
+Hydrovegen,22.03.2023,16:00,Totalt i retning Kulltangen,114,85,24,19,3,1,1,1,0,5
+Hydrovegen,22.03.2023,16:00,Totalt,278,228,45,21,10,9,5,5,0,24
+Hydrovegen,22.03.2023,17:00,1,134,122,12,3,2,4,3,3,0,9
+Hydrovegen,22.03.2023,17:00,2,216,155,47,32,2,3,10,10,0,15
+Hydrovegen,22.03.2023,17:00,Totalt i retning Herøya industripark,134,122,12,3,2,4,3,3,0,9
+Hydrovegen,22.03.2023,17:00,Totalt i retning Kulltangen,216,155,47,32,2,3,10,10,0,15
+Hydrovegen,22.03.2023,17:00,Totalt,350,277,59,35,4,7,13,13,0,24
+Hydrovegen,22.03.2023,18:00,1,75,64,11,3,1,5,2,2,0,8
+Hydrovegen,22.03.2023,18:00,2,116,95,17,11,2,1,3,3,0,6
+Hydrovegen,22.03.2023,18:00,Totalt i retning Herøya industripark,75,64,11,3,1,5,2,2,0,8
+Hydrovegen,22.03.2023,18:00,Totalt i retning Kulltangen,116,95,17,11,2,1,3,3,0,6
+Hydrovegen,22.03.2023,18:00,Totalt,191,159,28,14,3,6,5,5,0,14
+Hydrovegen,22.03.2023,19:00,1,65,60,5,1,1,2,1,1,0,4
+Hydrovegen,22.03.2023,19:00,2,117,84,27,21,1,4,1,1,0,6
+Hydrovegen,22.03.2023,19:00,Totalt i retning Herøya industripark,65,60,5,1,1,2,1,1,0,4
+Hydrovegen,22.03.2023,19:00,Totalt i retning Kulltangen,117,84,27,21,1,4,1,1,0,6
+Hydrovegen,22.03.2023,19:00,Totalt,182,144,32,22,2,6,2,2,0,10
+Hydrovegen,22.03.2023,20:00,1,47,44,3,0,2,0,1,1,0,3
+Hydrovegen,22.03.2023,20:00,2,97,75,22,18,1,1,2,2,0,4
+Hydrovegen,22.03.2023,20:00,Totalt i retning Herøya industripark,47,44,3,0,2,0,1,1,0,3
+Hydrovegen,22.03.2023,20:00,Totalt i retning Kulltangen,97,75,22,18,1,1,2,2,0,4
+Hydrovegen,22.03.2023,20:00,Totalt,144,119,25,18,3,1,3,3,0,7
+Hydrovegen,22.03.2023,21:00,1,68,63,5,2,1,2,0,0,0,3
+Hydrovegen,22.03.2023,21:00,2,65,50,14,11,2,1,0,0,0,3
+Hydrovegen,22.03.2023,21:00,Totalt i retning Herøya industripark,68,63,5,2,1,2,0,0,0,3
+Hydrovegen,22.03.2023,21:00,Totalt i retning Kulltangen,65,50,14,11,2,1,0,0,0,3
+Hydrovegen,22.03.2023,21:00,Totalt,133,113,19,13,3,3,0,0,0,6
+Hydrovegen,22.03.2023,22:00,1,40,35,5,1,1,3,0,0,0,4
+Hydrovegen,22.03.2023,22:00,2,61,50,10,8,2,0,0,0,0,2
+Hydrovegen,22.03.2023,22:00,Totalt i retning Herøya industripark,40,35,5,1,1,3,0,0,0,4
+Hydrovegen,22.03.2023,22:00,Totalt i retning Kulltangen,61,50,10,8,2,0,0,0,0,2
+Hydrovegen,22.03.2023,22:00,Totalt,101,85,15,9,3,3,0,0,0,6
+Hydrovegen,22.03.2023,23:00,1,57,55,2,1,1,0,0,0,0,1
+Hydrovegen,22.03.2023,23:00,2,69,60,9,7,2,0,0,0,0,2
+Hydrovegen,22.03.2023,23:00,Totalt i retning Herøya industripark,57,55,2,1,1,0,0,0,0,1
+Hydrovegen,22.03.2023,23:00,Totalt i retning Kulltangen,69,60,9,7,2,0,0,0,0,2
+Hydrovegen,22.03.2023,23:00,Totalt,126,115,11,8,3,0,0,0,0,3
+Hydrovegen,22.03.2023,0:00,1,17,15,2,2,0,0,0,0,0,0
+Hydrovegen,22.03.2023,0:00,2,21,18,3,3,0,0,0,0,0,0
+Hydrovegen,22.03.2023,0:00,Totalt i retning Herøya industripark,17,15,2,2,0,0,0,0,0,0
+Hydrovegen,22.03.2023,0:00,Totalt i retning Kulltangen,21,18,3,3,0,0,0,0,0,0
+Hydrovegen,22.03.2023,0:00,Totalt,38,33,5,5,0,0,0,0,0,0
+Hydrovegen,23.03.2023,1:00,1,1,1,0,0,0,0,0,0,0,0
+Hydrovegen,23.03.2023,1:00,2,7,5,2,2,0,0,0,0,0,0
+Hydrovegen,23.03.2023,1:00,Totalt i retning Herøya industripark,1,1,0,0,0,0,0,0,0,0
+Hydrovegen,23.03.2023,1:00,Totalt i retning Kulltangen,7,5,2,2,0,0,0,0,0,0
+Hydrovegen,23.03.2023,1:00,Totalt,8,6,2,2,0,0,0,0,0,0
+Hydrovegen,23.03.2023,2:00,1,2,1,1,1,0,0,0,0,0,0
+Hydrovegen,23.03.2023,2:00,2,3,2,1,0,1,0,0,0,0,1
+Hydrovegen,23.03.2023,2:00,Totalt i retning Herøya industripark,2,1,1,1,0,0,0,0,0,0
+Hydrovegen,23.03.2023,2:00,Totalt i retning Kulltangen,3,2,1,0,1,0,0,0,0,1
+Hydrovegen,23.03.2023,2:00,Totalt,5,3,2,1,1,0,0,0,0,1
+Hydrovegen,23.03.2023,3:00,1,2,2,0,0,0,0,0,0,0,0
+Hydrovegen,23.03.2023,3:00,2,2,2,0,0,0,0,0,0,0,0
+Hydrovegen,23.03.2023,3:00,Totalt i retning Herøya industripark,2,2,0,0,0,0,0,0,0,0
+Hydrovegen,23.03.2023,3:00,Totalt i retning Kulltangen,2,2,0,0,0,0,0,0,0,0
+Hydrovegen,23.03.2023,3:00,Totalt,4,4,0,0,0,0,0,0,0,0
+Hydrovegen,23.03.2023,4:00,1,1,0,1,1,0,0,0,0,0,0
+Hydrovegen,23.03.2023,4:00,2,6,6,0,0,0,0,0,0,0,0
+Hydrovegen,23.03.2023,4:00,Totalt i retning Herøya industripark,1,0,1,1,0,0,0,0,0,0
+Hydrovegen,23.03.2023,4:00,Totalt i retning Kulltangen,6,6,0,0,0,0,0,0,0,0
+Hydrovegen,23.03.2023,4:00,Totalt,7,6,1,1,0,0,0,0,0,0
+Hydrovegen,23.03.2023,5:00,1,2,1,1,0,0,1,0,0,0,1
+Hydrovegen,23.03.2023,5:00,2,7,4,3,3,0,0,0,0,0,0
+Hydrovegen,23.03.2023,5:00,Totalt i retning Herøya industripark,2,1,1,0,0,1,0,0,0,1
+Hydrovegen,23.03.2023,5:00,Totalt i retning Kulltangen,7,4,3,3,0,0,0,0,0,0
+Hydrovegen,23.03.2023,5:00,Totalt,9,5,4,3,0,1,0,0,0,1
+Hydrovegen,23.03.2023,6:00,1,47,44,3,0,2,1,0,0,0,3
+Hydrovegen,23.03.2023,6:00,2,16,10,6,2,4,0,0,0,0,4
+Hydrovegen,23.03.2023,6:00,Totalt i retning Herøya industripark,47,44,3,0,2,1,0,0,0,3
+Hydrovegen,23.03.2023,6:00,Totalt i retning Kulltangen,16,10,6,2,4,0,0,0,0,4
+Hydrovegen,23.03.2023,6:00,Totalt,63,54,9,2,6,1,0,0,0,7
+Hydrovegen,23.03.2023,7:00,1,520,500,20,11,4,3,2,2,0,9
+Hydrovegen,23.03.2023,7:00,2,87,57,12,5,4,2,1,1,0,7
+Hydrovegen,23.03.2023,7:00,Totalt i retning Herøya industripark,520,500,20,11,4,3,2,2,0,9
+Hydrovegen,23.03.2023,7:00,Totalt i retning Kulltangen,87,57,12,5,4,2,1,1,0,7
+Hydrovegen,23.03.2023,7:00,Totalt,607,557,32,16,8,5,3,3,0,16
+Hydrovegen,23.03.2023,8:00,1,471,441,30,4,8,10,8,8,0,26
+Hydrovegen,23.03.2023,8:00,2,162,84,45,23,7,5,10,10,0,22
+Hydrovegen,23.03.2023,8:00,Totalt i retning Herøya industripark,471,441,30,4,8,10,8,8,0,26
+Hydrovegen,23.03.2023,8:00,Totalt i retning Kulltangen,162,84,45,23,7,5,10,10,0,22
+Hydrovegen,23.03.2023,8:00,Totalt,633,525,75,27,15,15,18,18,0,48
+Hydrovegen,23.03.2023,9:00,1,296,240,56,16,15,12,13,13,0,40
+Hydrovegen,23.03.2023,9:00,2,130,72,40,13,11,2,14,14,0,27
+Hydrovegen,23.03.2023,9:00,Totalt i retning Herøya industripark,296,240,56,16,15,12,13,13,0,40
+Hydrovegen,23.03.2023,9:00,Totalt i retning Kulltangen,130,72,40,13,11,2,14,14,0,27
+Hydrovegen,23.03.2023,9:00,Totalt,426,312,96,29,26,14,27,27,0,67
+Hydrovegen,23.03.2023,10:00,1,138,89,49,11,12,11,15,15,0,38
+Hydrovegen,23.03.2023,10:00,2,132,64,60,24,13,5,18,18,0,36
+Hydrovegen,23.03.2023,10:00,Totalt i retning Herøya industripark,138,89,49,11,12,11,15,15,0,38
+Hydrovegen,23.03.2023,10:00,Totalt i retning Kulltangen,132,64,60,24,13,5,18,18,0,36
+Hydrovegen,23.03.2023,10:00,Totalt,270,153,109,35,25,16,33,33,0,74
+Hydrovegen,23.03.2023,11:00,1,147,96,51,10,17,13,11,11,0,41
+Hydrovegen,23.03.2023,11:00,2,131,79,44,13,9,3,19,19,0,31
+Hydrovegen,23.03.2023,11:00,Totalt i retning Herøya industripark,147,96,51,10,17,13,11,11,0,41
+Hydrovegen,23.03.2023,11:00,Totalt i retning Kulltangen,131,79,44,13,9,3,19,19,0,31
+Hydrovegen,23.03.2023,11:00,Totalt,278,175,95,23,26,16,30,30,0,72
+Hydrovegen,23.03.2023,12:00,1,156,123,33,11,7,4,11,11,0,22
+Hydrovegen,23.03.2023,12:00,2,132,77,52,29,9,0,14,14,0,23
+Hydrovegen,23.03.2023,12:00,Totalt i retning Herøya industripark,156,123,33,11,7,4,11,11,0,22
+Hydrovegen,23.03.2023,12:00,Totalt i retning Kulltangen,132,77,52,29,9,0,14,14,0,23
+Hydrovegen,23.03.2023,12:00,Totalt,288,200,85,40,16,4,25,25,0,45
+Hydrovegen,23.03.2023,13:00,1,158,113,45,11,13,12,9,9,0,34
+Hydrovegen,23.03.2023,13:00,2,133,73,54,23,13,3,15,15,0,31
+Hydrovegen,23.03.2023,13:00,Totalt i retning Herøya industripark,158,113,45,11,13,12,9,9,0,34
+Hydrovegen,23.03.2023,13:00,Totalt i retning Kulltangen,133,73,54,23,13,3,15,15,0,31
+Hydrovegen,23.03.2023,13:00,Totalt,291,186,99,34,26,15,24,24,0,65
+Hydrovegen,23.03.2023,14:00,1,147,111,36,7,11,10,8,8,0,29
+Hydrovegen,23.03.2023,14:00,2,147,82,54,20,11,3,20,20,0,34
+Hydrovegen,23.03.2023,14:00,Totalt i retning Herøya industripark,147,111,36,7,11,10,8,8,0,29
+Hydrovegen,23.03.2023,14:00,Totalt i retning Kulltangen,147,82,54,20,11,3,20,20,0,34
+Hydrovegen,23.03.2023,14:00,Totalt,294,193,90,27,22,13,28,28,0,63
+Hydrovegen,23.03.2023,15:00,1,186,147,39,10,10,10,9,9,0,29
+Hydrovegen,23.03.2023,15:00,2,313,213,81,50,8,5,18,18,0,31
+Hydrovegen,23.03.2023,15:00,Totalt i retning Herøya industripark,186,147,39,10,10,10,9,9,0,29
+Hydrovegen,23.03.2023,15:00,Totalt i retning Kulltangen,313,213,81,50,8,5,18,18,0,31
+Hydrovegen,23.03.2023,15:00,Totalt,499,360,120,60,18,15,27,27,0,60
+Hydrovegen,23.03.2023,16:00,1,183,152,31,4,14,9,4,4,0,27
+Hydrovegen,23.03.2023,16:00,2,46,34,11,2,6,2,1,1,0,9
+Hydrovegen,23.03.2023,16:00,Totalt i retning Herøya industripark,183,152,31,4,14,9,4,4,0,27
+Hydrovegen,23.03.2023,16:00,Totalt i retning Kulltangen,46,34,11,2,6,2,1,1,0,9
+Hydrovegen,23.03.2023,16:00,Totalt,229,186,42,6,20,11,5,5,0,36
+Hydrovegen,23.03.2023,17:00,1,120,109,11,3,5,1,2,2,0,8
+Hydrovegen,23.03.2023,17:00,2,224,178,33,25,4,1,3,3,0,8
+Hydrovegen,23.03.2023,17:00,Totalt i retning Herøya industripark,120,109,11,3,5,1,2,2,0,8
+Hydrovegen,23.03.2023,17:00,Totalt i retning Kulltangen,224,178,33,25,4,1,3,3,0,8
+Hydrovegen,23.03.2023,17:00,Totalt,344,287,44,28,9,2,5,5,0,16
+Hydrovegen,23.03.2023,18:00,1,70,62,8,2,2,3,1,1,0,6
+Hydrovegen,23.03.2023,18:00,2,115,92,18,9,3,2,4,4,0,9
+Hydrovegen,23.03.2023,18:00,Totalt i retning Herøya industripark,70,62,8,2,2,3,1,1,0,6
+Hydrovegen,23.03.2023,18:00,Totalt i retning Kulltangen,115,92,18,9,3,2,4,4,0,9
+Hydrovegen,23.03.2023,18:00,Totalt,185,154,26,11,5,5,5,5,0,15
+Hydrovegen,23.03.2023,19:00,1,93,87,6,0,4,0,2,2,0,6
+Hydrovegen,23.03.2023,19:00,2,107,82,24,16,2,3,3,3,0,8
+Hydrovegen,23.03.2023,19:00,Totalt i retning Herøya industripark,93,87,6,0,4,0,2,2,0,6
+Hydrovegen,23.03.2023,19:00,Totalt i retning Kulltangen,107,82,24,16,2,3,3,3,0,8
+Hydrovegen,23.03.2023,19:00,Totalt,200,169,30,16,6,3,5,5,0,14
+Hydrovegen,23.03.2023,20:00,1,55,49,6,1,3,2,0,0,0,5
+Hydrovegen,23.03.2023,20:00,2,78,52,23,19,1,1,2,2,0,4
+Hydrovegen,23.03.2023,20:00,Totalt i retning Herøya industripark,55,49,6,1,3,2,0,0,0,5
+Hydrovegen,23.03.2023,20:00,Totalt i retning Kulltangen,78,52,23,19,1,1,2,2,0,4
+Hydrovegen,23.03.2023,20:00,Totalt,133,101,29,20,4,3,2,2,0,9
+Hydrovegen,23.03.2023,21:00,1,47,43,4,2,0,1,1,1,0,2
+Hydrovegen,23.03.2023,21:00,2,53,42,9,5,1,2,1,1,0,4
+Hydrovegen,23.03.2023,21:00,Totalt i retning Herøya industripark,47,43,4,2,0,1,1,1,0,2
+Hydrovegen,23.03.2023,21:00,Totalt i retning Kulltangen,53,42,9,5,1,2,1,1,0,4
+Hydrovegen,23.03.2023,21:00,Totalt,100,85,13,7,1,3,2,2,0,6
+Hydrovegen,23.03.2023,22:00,1,51,46,5,0,2,1,2,2,0,5
+Hydrovegen,23.03.2023,22:00,2,57,42,14,11,0,1,2,2,0,3
+Hydrovegen,23.03.2023,22:00,Totalt i retning Herøya industripark,51,46,5,0,2,1,2,2,0,5
+Hydrovegen,23.03.2023,22:00,Totalt i retning Kulltangen,57,42,14,11,0,1,2,2,0,3
+Hydrovegen,23.03.2023,22:00,Totalt,108,88,19,11,2,2,4,4,0,8
+Hydrovegen,23.03.2023,23:00,1,58,54,4,3,1,0,0,0,0,1
+Hydrovegen,23.03.2023,23:00,2,82,61,19,16,0,2,1,1,0,3
+Hydrovegen,23.03.2023,23:00,Totalt i retning Herøya industripark,58,54,4,3,1,0,0,0,0,1
+Hydrovegen,23.03.2023,23:00,Totalt i retning Kulltangen,82,61,19,16,0,2,1,1,0,3
+Hydrovegen,23.03.2023,23:00,Totalt,140,115,23,19,1,2,1,1,0,4
+Hydrovegen,23.03.2023,0:00,1,9,9,0,0,0,0,0,0,0,0
+Hydrovegen,23.03.2023,0:00,2,11,8,3,3,0,0,0,0,0,0
+Hydrovegen,23.03.2023,0:00,Totalt i retning Herøya industripark,9,9,0,0,0,0,0,0,0,0
+Hydrovegen,23.03.2023,0:00,Totalt i retning Kulltangen,11,8,3,3,0,0,0,0,0,0
+Hydrovegen,23.03.2023,0:00,Totalt,20,17,3,3,0,0,0,0,0,0
+Hydrovegen,24.03.2023,1:00,1,3,3,0,0,0,0,0,0,0,0
+Hydrovegen,24.03.2023,1:00,2,8,6,2,0,0,1,1,1,0,2
+Hydrovegen,24.03.2023,1:00,Totalt i retning Herøya industripark,3,3,0,0,0,0,0,0,0,0
+Hydrovegen,24.03.2023,1:00,Totalt i retning Kulltangen,8,6,2,0,0,1,1,1,0,2
+Hydrovegen,24.03.2023,1:00,Totalt,11,9,2,0,0,1,1,1,0,2
+Hydrovegen,24.03.2023,2:00,1,3,1,2,2,0,0,0,0,0,0
+Hydrovegen,24.03.2023,2:00,2,3,2,1,1,0,0,0,0,0,0
+Hydrovegen,24.03.2023,2:00,Totalt i retning Herøya industripark,3,1,2,2,0,0,0,0,0,0
+Hydrovegen,24.03.2023,2:00,Totalt i retning Kulltangen,3,2,1,1,0,0,0,0,0,0
+Hydrovegen,24.03.2023,2:00,Totalt,6,3,3,3,0,0,0,0,0,0
+Hydrovegen,24.03.2023,3:00,1,4,4,0,0,0,0,0,0,0,0
+Hydrovegen,24.03.2023,3:00,2,1,0,1,1,0,0,0,0,0,0
+Hydrovegen,24.03.2023,3:00,Totalt i retning Herøya industripark,4,4,0,0,0,0,0,0,0,0
+Hydrovegen,24.03.2023,3:00,Totalt i retning Kulltangen,1,0,1,1,0,0,0,0,0,0
+Hydrovegen,24.03.2023,3:00,Totalt,5,4,1,1,0,0,0,0,0,0
+Hydrovegen,24.03.2023,4:00,1,1,1,0,0,0,0,0,0,0,0
+Hydrovegen,24.03.2023,4:00,2,4,4,0,0,0,0,0,0,0,0
+Hydrovegen,24.03.2023,4:00,Totalt i retning Herøya industripark,1,1,0,0,0,0,0,0,0,0
+Hydrovegen,24.03.2023,4:00,Totalt i retning Kulltangen,4,4,0,0,0,0,0,0,0,0
+Hydrovegen,24.03.2023,4:00,Totalt,5,5,0,0,0,0,0,0,0,0
+Hydrovegen,24.03.2023,5:00,1,3,1,2,2,0,0,0,0,0,0
+Hydrovegen,24.03.2023,5:00,2,7,4,3,2,1,0,0,0,0,1
+Hydrovegen,24.03.2023,5:00,Totalt i retning Herøya industripark,3,1,2,2,0,0,0,0,0,0
+Hydrovegen,24.03.2023,5:00,Totalt i retning Kulltangen,7,4,3,2,1,0,0,0,0,1
+Hydrovegen,24.03.2023,5:00,Totalt,10,5,5,4,1,0,0,0,0,1
+Hydrovegen,24.03.2023,6:00,1,60,56,4,1,2,1,0,0,0,3
+Hydrovegen,24.03.2023,6:00,2,12,7,4,2,2,0,0,0,0,2
+Hydrovegen,24.03.2023,6:00,Totalt i retning Herøya industripark,60,56,4,1,2,1,0,0,0,3
+Hydrovegen,24.03.2023,6:00,Totalt i retning Kulltangen,12,7,4,2,2,0,0,0,0,2
+Hydrovegen,24.03.2023,6:00,Totalt,72,63,8,3,4,1,0,0,0,5
+Hydrovegen,24.03.2023,7:00,1,424,408,16,5,5,4,2,2,0,11
+Hydrovegen,24.03.2023,7:00,2,91,74,8,5,2,1,0,0,0,3
+Hydrovegen,24.03.2023,7:00,Totalt i retning Herøya industripark,424,408,16,5,5,4,2,2,0,11
+Hydrovegen,24.03.2023,7:00,Totalt i retning Kulltangen,91,74,8,5,2,1,0,0,0,3
+Hydrovegen,24.03.2023,7:00,Totalt,515,482,24,10,7,5,2,2,0,14
+Hydrovegen,24.03.2023,8:00,1,456,426,30,8,5,9,8,8,0,22
+Hydrovegen,24.03.2023,8:00,2,130,62,44,24,8,1,11,11,0,20
+Hydrovegen,24.03.2023,8:00,Totalt i retning Herøya industripark,456,426,30,8,5,9,8,8,0,22
+Hydrovegen,24.03.2023,8:00,Totalt i retning Kulltangen,130,62,44,24,8,1,11,11,0,20
+Hydrovegen,24.03.2023,8:00,Totalt,586,488,74,32,13,10,19,19,0,42
+Hydrovegen,24.03.2023,9:00,1,247,204,43,10,11,10,12,12,0,33
+Hydrovegen,24.03.2023,9:00,2,125,69,41,22,4,3,12,12,0,19
+Hydrovegen,24.03.2023,9:00,Totalt i retning Herøya industripark,247,204,43,10,11,10,12,12,0,33
+Hydrovegen,24.03.2023,9:00,Totalt i retning Kulltangen,125,69,41,22,4,3,12,12,0,19
+Hydrovegen,24.03.2023,9:00,Totalt,372,273,84,32,15,13,24,24,0,52
+Hydrovegen,24.03.2023,10:00,1,138,95,43,5,9,14,15,15,0,38
+Hydrovegen,24.03.2023,10:00,2,109,51,53,24,8,3,18,18,0,29
+Hydrovegen,24.03.2023,10:00,Totalt i retning Herøya industripark,138,95,43,5,9,14,15,15,0,38
+Hydrovegen,24.03.2023,10:00,Totalt i retning Kulltangen,109,51,53,24,8,3,18,18,0,29
+Hydrovegen,24.03.2023,10:00,Totalt,247,146,96,29,17,17,33,33,0,67
+Hydrovegen,24.03.2023,11:00,1,135,103,32,8,10,8,6,6,0,24
+Hydrovegen,24.03.2023,11:00,2,151,82,54,21,15,3,15,15,0,33
+Hydrovegen,24.03.2023,11:00,Totalt i retning Herøya industripark,135,103,32,8,10,8,6,6,0,24
+Hydrovegen,24.03.2023,11:00,Totalt i retning Kulltangen,151,82,54,21,15,3,15,15,0,33
+Hydrovegen,24.03.2023,11:00,Totalt,286,185,86,29,25,11,21,21,0,57
+Hydrovegen,24.03.2023,12:00,1,130,107,23,8,10,4,1,1,0,15
+Hydrovegen,24.03.2023,12:00,2,141,92,47,25,9,2,11,11,0,22
+Hydrovegen,24.03.2023,12:00,Totalt i retning Herøya industripark,130,107,23,8,10,4,1,1,0,15
+Hydrovegen,24.03.2023,12:00,Totalt i retning Kulltangen,141,92,47,25,9,2,11,11,0,22
+Hydrovegen,24.03.2023,12:00,Totalt,271,199,70,33,19,6,12,12,0,37
+Hydrovegen,24.03.2023,13:00,1,123,92,31,7,6,11,7,7,0,24
+Hydrovegen,24.03.2023,13:00,2,179,120,51,31,8,1,11,11,0,20
+Hydrovegen,24.03.2023,13:00,Totalt i retning Herøya industripark,123,92,31,7,6,11,7,7,0,24
+Hydrovegen,24.03.2023,13:00,Totalt i retning Kulltangen,179,120,51,31,8,1,11,11,0,20
+Hydrovegen,24.03.2023,13:00,Totalt,302,212,82,38,14,12,18,18,0,44
+Hydrovegen,24.03.2023,14:00,1,153,124,29,6,9,12,2,2,0,23
+Hydrovegen,24.03.2023,14:00,2,188,125,53,33,6,2,12,12,0,20
+Hydrovegen,24.03.2023,14:00,Totalt i retning Herøya industripark,153,124,29,6,9,12,2,2,0,23
+Hydrovegen,24.03.2023,14:00,Totalt i retning Kulltangen,188,125,53,33,6,2,12,12,0,20
+Hydrovegen,24.03.2023,14:00,Totalt,341,249,82,39,15,14,14,14,0,43
+Hydrovegen,24.03.2023,15:00,1,136,113,23,6,4,7,6,6,0,17
+Hydrovegen,24.03.2023,15:00,2,328,258,56,36,8,4,8,8,0,20
+Hydrovegen,24.03.2023,15:00,Totalt i retning Herøya industripark,136,113,23,6,4,7,6,6,0,17
+Hydrovegen,24.03.2023,15:00,Totalt i retning Kulltangen,328,258,56,36,8,4,8,8,0,20
+Hydrovegen,24.03.2023,15:00,Totalt,464,371,79,42,12,11,14,14,0,37
+Hydrovegen,24.03.2023,16:00,1,173,154,19,5,8,6,0,0,0,14
+Hydrovegen,24.03.2023,16:00,2,216,172,29,27,1,0,1,1,0,2
+Hydrovegen,24.03.2023,16:00,Totalt i retning Herøya industripark,173,154,19,5,8,6,0,0,0,14
+Hydrovegen,24.03.2023,16:00,Totalt i retning Kulltangen,216,172,29,27,1,0,1,1,0,2
+Hydrovegen,24.03.2023,16:00,Totalt,389,326,48,32,9,6,1,1,0,16
+Hydrovegen,24.03.2023,17:00,1,102,95,7,1,5,1,0,0,0,6
+Hydrovegen,24.03.2023,17:00,2,171,145,23,16,3,2,2,2,0,7
+Hydrovegen,24.03.2023,17:00,Totalt i retning Herøya industripark,102,95,7,1,5,1,0,0,0,6
+Hydrovegen,24.03.2023,17:00,Totalt i retning Kulltangen,171,145,23,16,3,2,2,2,0,7
+Hydrovegen,24.03.2023,17:00,Totalt,273,240,30,17,8,3,2,2,0,13
+Hydrovegen,24.03.2023,18:00,1,74,69,5,1,3,1,0,0,0,4
+Hydrovegen,24.03.2023,18:00,2,82,67,10,6,2,1,1,1,0,4
+Hydrovegen,24.03.2023,18:00,Totalt i retning Herøya industripark,74,69,5,1,3,1,0,0,0,4
+Hydrovegen,24.03.2023,18:00,Totalt i retning Kulltangen,82,67,10,6,2,1,1,1,0,4
+Hydrovegen,24.03.2023,18:00,Totalt,156,136,15,7,5,2,1,1,0,8
+Hydrovegen,24.03.2023,19:00,1,71,63,8,3,2,0,3,3,0,5
+Hydrovegen,24.03.2023,19:00,2,73,57,13,11,1,1,0,0,0,2
+Hydrovegen,24.03.2023,19:00,Totalt i retning Herøya industripark,71,63,8,3,2,0,3,3,0,5
+Hydrovegen,24.03.2023,19:00,Totalt i retning Kulltangen,73,57,13,11,1,1,0,0,0,2
+Hydrovegen,24.03.2023,19:00,Totalt,144,120,21,14,3,1,3,3,0,7
+Hydrovegen,24.03.2023,20:00,1,30,26,4,2,2,0,0,0,0,2
+Hydrovegen,24.03.2023,20:00,2,39,28,10,7,1,0,2,2,0,3
+Hydrovegen,24.03.2023,20:00,Totalt i retning Herøya industripark,30,26,4,2,2,0,0,0,0,2
+Hydrovegen,24.03.2023,20:00,Totalt i retning Kulltangen,39,28,10,7,1,0,2,2,0,3
+Hydrovegen,24.03.2023,20:00,Totalt,69,54,14,9,3,0,2,2,0,5
+Hydrovegen,24.03.2023,21:00,1,33,27,6,5,1,0,0,0,0,1
+Hydrovegen,24.03.2023,21:00,2,24,20,4,1,1,1,1,1,0,3
+Hydrovegen,24.03.2023,21:00,Totalt i retning Herøya industripark,33,27,6,5,1,0,0,0,0,1
+Hydrovegen,24.03.2023,21:00,Totalt i retning Kulltangen,24,20,4,1,1,1,1,1,0,3
+Hydrovegen,24.03.2023,21:00,Totalt,57,47,10,6,2,1,1,1,0,4
+Hydrovegen,24.03.2023,22:00,1,30,27,3,1,1,0,1,1,0,2
+Hydrovegen,24.03.2023,22:00,2,35,30,5,4,1,0,0,0,0,1
+Hydrovegen,24.03.2023,22:00,Totalt i retning Herøya industripark,30,27,3,1,1,0,1,1,0,2
+Hydrovegen,24.03.2023,22:00,Totalt i retning Kulltangen,35,30,5,4,1,0,0,0,0,1
+Hydrovegen,24.03.2023,22:00,Totalt,65,57,8,5,2,0,1,1,0,3
+Hydrovegen,24.03.2023,23:00,1,29,27,2,0,1,0,1,1,0,2
+Hydrovegen,24.03.2023,23:00,2,29,24,4,2,2,0,0,0,0,2
+Hydrovegen,24.03.2023,23:00,Totalt i retning Herøya industripark,29,27,2,0,1,0,1,1,0,2
+Hydrovegen,24.03.2023,23:00,Totalt i retning Kulltangen,29,24,4,2,2,0,0,0,0,2
+Hydrovegen,24.03.2023,23:00,Totalt,58,51,6,2,3,0,1,1,0,4
+Hydrovegen,24.03.2023,0:00,1,6,6,0,0,0,0,0,0,0,0
+Hydrovegen,24.03.2023,0:00,2,14,12,2,1,0,0,1,1,0,1
+Hydrovegen,24.03.2023,0:00,Totalt i retning Herøya industripark,6,6,0,0,0,0,0,0,0,0
+Hydrovegen,24.03.2023,0:00,Totalt i retning Kulltangen,14,12,2,1,0,0,1,1,0,1
+Hydrovegen,24.03.2023,0:00,Totalt,20,18,2,1,0,0,1,1,0,1
+Hydrovegen,25.03.2023,1:00,1,7,7,0,0,0,0,0,0,0,0
+Hydrovegen,25.03.2023,1:00,2,8,6,2,1,0,0,1,1,0,1
+Hydrovegen,25.03.2023,1:00,Totalt i retning Herøya industripark,7,7,0,0,0,0,0,0,0,0
+Hydrovegen,25.03.2023,1:00,Totalt i retning Kulltangen,8,6,2,1,0,0,1,1,0,1
+Hydrovegen,25.03.2023,1:00,Totalt,15,13,2,1,0,0,1,1,0,1
+Hydrovegen,25.03.2023,2:00,1,5,3,2,2,0,0,0,0,0,0
+Hydrovegen,25.03.2023,2:00,2,5,3,1,1,0,0,0,0,0,0
+Hydrovegen,25.03.2023,2:00,Totalt i retning Herøya industripark,5,3,2,2,0,0,0,0,0,0
+Hydrovegen,25.03.2023,2:00,Totalt i retning Kulltangen,5,3,1,1,0,0,0,0,0,0
+Hydrovegen,25.03.2023,2:00,Totalt,10,6,3,3,0,0,0,0,0,0
+Hydrovegen,25.03.2023,3:00,1,5,4,1,1,0,0,0,0,0,0
+Hydrovegen,25.03.2023,3:00,2,4,4,0,0,0,0,0,0,0,0
+Hydrovegen,25.03.2023,3:00,Totalt i retning Herøya industripark,5,4,1,1,0,0,0,0,0,0
+Hydrovegen,25.03.2023,3:00,Totalt i retning Kulltangen,4,4,0,0,0,0,0,0,0,0
+Hydrovegen,25.03.2023,3:00,Totalt,9,8,1,1,0,0,0,0,0,0
+Hydrovegen,25.03.2023,4:00,1,2,1,1,1,0,0,0,0,0,0
+Hydrovegen,25.03.2023,4:00,2,3,3,0,0,0,0,0,0,0,0
+Hydrovegen,25.03.2023,4:00,Totalt i retning Herøya industripark,2,1,1,1,0,0,0,0,0,0
+Hydrovegen,25.03.2023,4:00,Totalt i retning Kulltangen,3,3,0,0,0,0,0,0,0,0
+Hydrovegen,25.03.2023,4:00,Totalt,5,4,1,1,0,0,0,0,0,0
+Hydrovegen,25.03.2023,5:00,1,1,1,0,0,0,0,0,0,0,0
+Hydrovegen,25.03.2023,5:00,2,0,0,0,0,0,0,0,0,0,0
+Hydrovegen,25.03.2023,5:00,Totalt i retning Herøya industripark,1,1,0,0,0,0,0,0,0,0
+Hydrovegen,25.03.2023,5:00,Totalt i retning Kulltangen,0,0,0,0,0,0,0,0,0,0
+Hydrovegen,25.03.2023,5:00,Totalt,1,1,0,0,0,0,0,0,0,0
+Hydrovegen,25.03.2023,6:00,1,14,14,0,0,0,0,0,0,0,0
+Hydrovegen,25.03.2023,6:00,2,5,3,2,2,0,0,0,0,0,0
+Hydrovegen,25.03.2023,6:00,Totalt i retning Herøya industripark,14,14,0,0,0,0,0,0,0,0
+Hydrovegen,25.03.2023,6:00,Totalt i retning Kulltangen,5,3,2,2,0,0,0,0,0,0
+Hydrovegen,25.03.2023,6:00,Totalt,19,17,2,2,0,0,0,0,0,0
+Hydrovegen,25.03.2023,7:00,1,66,65,1,0,1,0,0,0,0,1
+Hydrovegen,25.03.2023,7:00,2,40,37,2,2,0,0,0,0,0,0
+Hydrovegen,25.03.2023,7:00,Totalt i retning Herøya industripark,66,65,1,0,1,0,0,0,0,1
+Hydrovegen,25.03.2023,7:00,Totalt i retning Kulltangen,40,37,2,2,0,0,0,0,0,0
+Hydrovegen,25.03.2023,7:00,Totalt,106,102,3,2,1,0,0,0,0,1
+Hydrovegen,25.03.2023,8:00,1,26,21,5,3,2,0,0,0,0,2
+Hydrovegen,25.03.2023,8:00,2,13,9,4,4,0,0,0,0,0,0
+Hydrovegen,25.03.2023,8:00,Totalt i retning Herøya industripark,26,21,5,3,2,0,0,0,0,2
+Hydrovegen,25.03.2023,8:00,Totalt i retning Kulltangen,13,9,4,4,0,0,0,0,0,0
+Hydrovegen,25.03.2023,8:00,Totalt,39,30,9,7,2,0,0,0,0,2
+Hydrovegen,25.03.2023,9:00,1,23,21,2,1,1,0,0,0,0,1
+Hydrovegen,25.03.2023,9:00,2,23,16,7,3,2,2,0,0,0,4
+Hydrovegen,25.03.2023,9:00,Totalt i retning Herøya industripark,23,21,2,1,1,0,0,0,0,1
+Hydrovegen,25.03.2023,9:00,Totalt i retning Kulltangen,23,16,7,3,2,2,0,0,0,4
+Hydrovegen,25.03.2023,9:00,Totalt,46,37,9,4,3,2,0,0,0,5
+Hydrovegen,25.03.2023,10:00,1,25,21,4,1,2,1,0,0,0,3
+Hydrovegen,25.03.2023,10:00,2,33,24,9,8,1,0,0,0,0,1
+Hydrovegen,25.03.2023,10:00,Totalt i retning Herøya industripark,25,21,4,1,2,1,0,0,0,3
+Hydrovegen,25.03.2023,10:00,Totalt i retning Kulltangen,33,24,9,8,1,0,0,0,0,1
+Hydrovegen,25.03.2023,10:00,Totalt,58,45,13,9,3,1,0,0,0,4
+Hydrovegen,25.03.2023,11:00,1,48,38,10,7,2,1,0,0,0,3
+Hydrovegen,25.03.2023,11:00,2,28,19,9,9,0,0,0,0,0,0
+Hydrovegen,25.03.2023,11:00,Totalt i retning Herøya industripark,48,38,10,7,2,1,0,0,0,3
+Hydrovegen,25.03.2023,11:00,Totalt i retning Kulltangen,28,19,9,9,0,0,0,0,0,0
+Hydrovegen,25.03.2023,11:00,Totalt,76,57,19,16,2,1,0,0,0,3
+Hydrovegen,25.03.2023,12:00,1,61,56,5,3,2,0,0,0,0,2
+Hydrovegen,25.03.2023,12:00,2,80,60,17,12,4,1,0,0,0,5
+Hydrovegen,25.03.2023,12:00,Totalt i retning Herøya industripark,61,56,5,3,2,0,0,0,0,2
+Hydrovegen,25.03.2023,12:00,Totalt i retning Kulltangen,80,60,17,12,4,1,0,0,0,5
+Hydrovegen,25.03.2023,12:00,Totalt,141,116,22,15,6,1,0,0,0,7
+Hydrovegen,25.03.2023,13:00,1,54,50,4,0,3,1,0,0,0,4
+Hydrovegen,25.03.2023,13:00,2,52,43,8,7,0,1,0,0,0,1
+Hydrovegen,25.03.2023,13:00,Totalt i retning Herøya industripark,54,50,4,0,3,1,0,0,0,4
+Hydrovegen,25.03.2023,13:00,Totalt i retning Kulltangen,52,43,8,7,0,1,0,0,0,1
+Hydrovegen,25.03.2023,13:00,Totalt,106,93,12,7,3,2,0,0,0,5
+Hydrovegen,25.03.2023,14:00,1,82,79,3,1,2,0,0,0,0,2
+Hydrovegen,25.03.2023,14:00,2,68,56,10,10,0,0,0,0,0,0
+Hydrovegen,25.03.2023,14:00,Totalt i retning Herøya industripark,82,79,3,1,2,0,0,0,0,2
+Hydrovegen,25.03.2023,14:00,Totalt i retning Kulltangen,68,56,10,10,0,0,0,0,0,0
+Hydrovegen,25.03.2023,14:00,Totalt,150,135,13,11,2,0,0,0,0,2
+Hydrovegen,25.03.2023,15:00,1,87,83,4,3,1,0,0,0,0,1
+Hydrovegen,25.03.2023,15:00,2,67,52,12,10,1,1,0,0,0,2
+Hydrovegen,25.03.2023,15:00,Totalt i retning Herøya industripark,87,83,4,3,1,0,0,0,0,1
+Hydrovegen,25.03.2023,15:00,Totalt i retning Kulltangen,67,52,12,10,1,1,0,0,0,2
+Hydrovegen,25.03.2023,15:00,Totalt,154,135,16,13,2,1,0,0,0,3
+Hydrovegen,25.03.2023,16:00,1,94,88,6,2,3,1,0,0,0,4
+Hydrovegen,25.03.2023,16:00,2,71,56,11,8,3,0,0,0,0,3
+Hydrovegen,25.03.2023,16:00,Totalt i retning Herøya industripark,94,88,6,2,3,1,0,0,0,4
+Hydrovegen,25.03.2023,16:00,Totalt i retning Kulltangen,71,56,11,8,3,0,0,0,0,3
+Hydrovegen,25.03.2023,16:00,Totalt,165,144,17,10,6,1,0,0,0,7
+Hydrovegen,25.03.2023,17:00,1,62,56,6,1,4,0,1,1,0,5
+Hydrovegen,25.03.2023,17:00,2,55,44,10,8,2,0,0,0,0,2
+Hydrovegen,25.03.2023,17:00,Totalt i retning Herøya industripark,62,56,6,1,4,0,1,1,0,5
+Hydrovegen,25.03.2023,17:00,Totalt i retning Kulltangen,55,44,10,8,2,0,0,0,0,2
+Hydrovegen,25.03.2023,17:00,Totalt,117,100,16,9,6,0,1,1,0,7
+Hydrovegen,25.03.2023,18:00,1,82,81,1,1,0,0,0,0,0,0
+Hydrovegen,25.03.2023,18:00,2,67,54,12,10,1,0,1,1,0,2
+Hydrovegen,25.03.2023,18:00,Totalt i retning Herøya industripark,82,81,1,1,0,0,0,0,0,0
+Hydrovegen,25.03.2023,18:00,Totalt i retning Kulltangen,67,54,12,10,1,0,1,1,0,2
+Hydrovegen,25.03.2023,18:00,Totalt,149,135,13,11,1,0,1,1,0,2
+Hydrovegen,25.03.2023,19:00,1,88,80,8,4,4,0,0,0,0,4
+Hydrovegen,25.03.2023,19:00,2,85,76,7,4,2,0,1,1,0,3
+Hydrovegen,25.03.2023,19:00,Totalt i retning Herøya industripark,88,80,8,4,4,0,0,0,0,4
+Hydrovegen,25.03.2023,19:00,Totalt i retning Kulltangen,85,76,7,4,2,0,1,1,0,3
+Hydrovegen,25.03.2023,19:00,Totalt,173,156,15,8,6,0,1,1,0,7
+Hydrovegen,25.03.2023,20:00,1,27,25,2,0,2,0,0,0,0,2
+Hydrovegen,25.03.2023,20:00,2,33,27,6,3,2,1,0,0,0,3
+Hydrovegen,25.03.2023,20:00,Totalt i retning Herøya industripark,27,25,2,0,2,0,0,0,0,2
+Hydrovegen,25.03.2023,20:00,Totalt i retning Kulltangen,33,27,6,3,2,1,0,0,0,3
+Hydrovegen,25.03.2023,20:00,Totalt,60,52,8,3,4,1,0,0,0,5
+Hydrovegen,25.03.2023,21:00,1,35,32,3,2,0,1,0,0,0,1
+Hydrovegen,25.03.2023,21:00,2,20,16,3,3,0,0,0,0,0,0
+Hydrovegen,25.03.2023,21:00,Totalt i retning Herøya industripark,35,32,3,2,0,1,0,0,0,1
+Hydrovegen,25.03.2023,21:00,Totalt i retning Kulltangen,20,16,3,3,0,0,0,0,0,0
+Hydrovegen,25.03.2023,21:00,Totalt,55,48,6,5,0,1,0,0,0,1
+Hydrovegen,25.03.2023,22:00,1,30,29,1,1,0,0,0,0,0,0
+Hydrovegen,25.03.2023,22:00,2,21,18,2,1,0,1,0,0,0,1
+Hydrovegen,25.03.2023,22:00,Totalt i retning Herøya industripark,30,29,1,1,0,0,0,0,0,0
+Hydrovegen,25.03.2023,22:00,Totalt i retning Kulltangen,21,18,2,1,0,1,0,0,0,1
+Hydrovegen,25.03.2023,22:00,Totalt,51,47,3,2,0,1,0,0,0,1
+Hydrovegen,25.03.2023,23:00,1,16,15,1,0,1,0,0,0,0,1
+Hydrovegen,25.03.2023,23:00,2,16,14,2,2,0,0,0,0,0,0
+Hydrovegen,25.03.2023,23:00,Totalt i retning Herøya industripark,16,15,1,0,1,0,0,0,0,1
+Hydrovegen,25.03.2023,23:00,Totalt i retning Kulltangen,16,14,2,2,0,0,0,0,0,0
+Hydrovegen,25.03.2023,23:00,Totalt,32,29,3,2,1,0,0,0,0,1
+Hydrovegen,25.03.2023,0:00,1,14,14,0,0,0,0,0,0,0,0
+Hydrovegen,25.03.2023,0:00,2,19,16,3,2,0,1,0,0,0,1
+Hydrovegen,25.03.2023,0:00,Totalt i retning Herøya industripark,14,14,0,0,0,0,0,0,0,0
+Hydrovegen,25.03.2023,0:00,Totalt i retning Kulltangen,19,16,3,2,0,1,0,0,0,1
+Hydrovegen,25.03.2023,0:00,Totalt,33,30,3,2,0,1,0,0,0,1
+Hydrovegen,26.03.2023,1:00,1,9,7,2,1,0,0,1,1,0,1
+Hydrovegen,26.03.2023,1:00,2,10,9,1,0,1,0,0,0,0,1
+Hydrovegen,26.03.2023,1:00,Totalt i retning Herøya industripark,9,7,2,1,0,0,1,1,0,1
+Hydrovegen,26.03.2023,1:00,Totalt i retning Kulltangen,10,9,1,0,1,0,0,0,0,1
+Hydrovegen,26.03.2023,1:00,Totalt,19,16,3,1,1,0,1,1,0,2
+Hydrovegen,26.03.2023,3:00,1,2,1,1,1,0,0,0,0,0,0
+Hydrovegen,26.03.2023,3:00,2,5,4,1,1,0,0,0,0,0,0
+Hydrovegen,26.03.2023,3:00,Totalt i retning Herøya industripark,2,1,1,1,0,0,0,0,0,0
+Hydrovegen,26.03.2023,3:00,Totalt i retning Kulltangen,5,4,1,1,0,0,0,0,0,0
+Hydrovegen,26.03.2023,3:00,Totalt,7,5,2,2,0,0,0,0,0,0
+Hydrovegen,26.03.2023,4:00,1,5,5,0,0,0,0,0,0,0,0
+Hydrovegen,26.03.2023,4:00,2,2,2,0,0,0,0,0,0,0,0
+Hydrovegen,26.03.2023,4:00,Totalt i retning Herøya industripark,5,5,0,0,0,0,0,0,0,0
+Hydrovegen,26.03.2023,4:00,Totalt i retning Kulltangen,2,2,0,0,0,0,0,0,0,0
+Hydrovegen,26.03.2023,4:00,Totalt,7,7,0,0,0,0,0,0,0,0
+Hydrovegen,26.03.2023,5:00,1,4,4,0,0,0,0,0,0,0,0
+Hydrovegen,26.03.2023,5:00,2,6,6,0,0,0,0,0,0,0,0
+Hydrovegen,26.03.2023,5:00,Totalt i retning Herøya industripark,4,4,0,0,0,0,0,0,0,0
+Hydrovegen,26.03.2023,5:00,Totalt i retning Kulltangen,6,6,0,0,0,0,0,0,0,0
+Hydrovegen,26.03.2023,5:00,Totalt,10,10,0,0,0,0,0,0,0,0
+Hydrovegen,26.03.2023,6:00,1,20,19,1,1,0,0,0,0,0,0
+Hydrovegen,26.03.2023,6:00,2,4,3,1,1,0,0,0,0,0,0
+Hydrovegen,26.03.2023,6:00,Totalt i retning Herøya industripark,20,19,1,1,0,0,0,0,0,0
+Hydrovegen,26.03.2023,6:00,Totalt i retning Kulltangen,4,3,1,1,0,0,0,0,0,0
+Hydrovegen,26.03.2023,6:00,Totalt,24,22,2,2,0,0,0,0,0,0
+Hydrovegen,26.03.2023,7:00,1,51,50,1,1,0,0,0,0,0,0
+Hydrovegen,26.03.2023,7:00,2,45,36,8,8,0,0,0,0,0,0
+Hydrovegen,26.03.2023,7:00,Totalt i retning Herøya industripark,51,50,1,1,0,0,0,0,0,0
+Hydrovegen,26.03.2023,7:00,Totalt i retning Kulltangen,45,36,8,8,0,0,0,0,0,0
+Hydrovegen,26.03.2023,7:00,Totalt,96,86,9,9,0,0,0,0,0,0
+Hydrovegen,26.03.2023,8:00,1,15,14,1,1,0,0,0,0,0,0
+Hydrovegen,26.03.2023,8:00,2,9,8,1,1,0,0,0,0,0,0
+Hydrovegen,26.03.2023,8:00,Totalt i retning Herøya industripark,15,14,1,1,0,0,0,0,0,0
+Hydrovegen,26.03.2023,8:00,Totalt i retning Kulltangen,9,8,1,1,0,0,0,0,0,0
+Hydrovegen,26.03.2023,8:00,Totalt,24,22,2,2,0,0,0,0,0,0
+Hydrovegen,26.03.2023,9:00,1,10,9,1,0,0,1,0,0,0,1
+Hydrovegen,26.03.2023,9:00,2,7,6,1,0,1,0,0,0,0,1
+Hydrovegen,26.03.2023,9:00,Totalt i retning Herøya industripark,10,9,1,0,0,1,0,0,0,1
+Hydrovegen,26.03.2023,9:00,Totalt i retning Kulltangen,7,6,1,0,1,0,0,0,0,1
+Hydrovegen,26.03.2023,9:00,Totalt,17,15,2,0,1,1,0,0,0,2
+Hydrovegen,26.03.2023,10:00,1,11,10,1,0,1,0,0,0,0,1
+Hydrovegen,26.03.2023,10:00,2,11,10,1,1,0,0,0,0,0,0
+Hydrovegen,26.03.2023,10:00,Totalt i retning Herøya industripark,11,10,1,0,1,0,0,0,0,1
+Hydrovegen,26.03.2023,10:00,Totalt i retning Kulltangen,11,10,1,1,0,0,0,0,0,0
+Hydrovegen,26.03.2023,10:00,Totalt,22,20,2,1,1,0,0,0,0,1
+Hydrovegen,26.03.2023,11:00,1,18,11,7,6,0,1,0,0,0,1
+Hydrovegen,26.03.2023,11:00,2,17,14,3,3,0,0,0,0,0,0
+Hydrovegen,26.03.2023,11:00,Totalt i retning Herøya industripark,18,11,7,6,0,1,0,0,0,1
+Hydrovegen,26.03.2023,11:00,Totalt i retning Kulltangen,17,14,3,3,0,0,0,0,0,0
+Hydrovegen,26.03.2023,11:00,Totalt,35,25,10,9,0,1,0,0,0,1
+Hydrovegen,26.03.2023,12:00,1,34,29,5,2,1,0,2,2,0,3
+Hydrovegen,26.03.2023,12:00,2,22,16,6,4,2,0,0,0,0,2
+Hydrovegen,26.03.2023,12:00,Totalt i retning Herøya industripark,34,29,5,2,1,0,2,2,0,3
+Hydrovegen,26.03.2023,12:00,Totalt i retning Kulltangen,22,16,6,4,2,0,0,0,0,2
+Hydrovegen,26.03.2023,12:00,Totalt,56,45,11,6,3,0,2,2,0,5
+Hydrovegen,26.03.2023,13:00,1,45,44,1,1,0,0,0,0,0,0
+Hydrovegen,26.03.2023,13:00,2,32,24,8,6,1,0,1,1,0,2
+Hydrovegen,26.03.2023,13:00,Totalt i retning Herøya industripark,45,44,1,1,0,0,0,0,0,0
+Hydrovegen,26.03.2023,13:00,Totalt i retning Kulltangen,32,24,8,6,1,0,1,1,0,2
+Hydrovegen,26.03.2023,13:00,Totalt,77,68,9,7,1,0,1,1,0,2
+Hydrovegen,26.03.2023,14:00,1,56,52,4,2,2,0,0,0,0,2
+Hydrovegen,26.03.2023,14:00,2,37,29,6,5,0,0,1,1,0,1
+Hydrovegen,26.03.2023,14:00,Totalt i retning Herøya industripark,56,52,4,2,2,0,0,0,0,2
+Hydrovegen,26.03.2023,14:00,Totalt i retning Kulltangen,37,29,6,5,0,0,1,1,0,1
+Hydrovegen,26.03.2023,14:00,Totalt,93,81,10,7,2,0,1,1,0,3
+Hydrovegen,26.03.2023,15:00,1,56,50,6,4,0,1,1,1,0,2
+Hydrovegen,26.03.2023,15:00,2,61,50,11,9,0,0,2,2,0,2
+Hydrovegen,26.03.2023,15:00,Totalt i retning Herøya industripark,56,50,6,4,0,1,1,1,0,2
+Hydrovegen,26.03.2023,15:00,Totalt i retning Kulltangen,61,50,11,9,0,0,2,2,0,2
+Hydrovegen,26.03.2023,15:00,Totalt,117,100,17,13,0,1,3,3,0,4
+Hydrovegen,26.03.2023,16:00,1,52,48,4,2,1,0,1,1,0,2
+Hydrovegen,26.03.2023,16:00,2,58,54,4,4,0,0,0,0,0,0
+Hydrovegen,26.03.2023,16:00,Totalt i retning Herøya industripark,52,48,4,2,1,0,1,1,0,2
+Hydrovegen,26.03.2023,16:00,Totalt i retning Kulltangen,58,54,4,4,0,0,0,0,0,0
+Hydrovegen,26.03.2023,16:00,Totalt,110,102,8,6,1,0,1,1,0,2
+Hydrovegen,26.03.2023,17:00,1,65,61,4,2,1,1,0,0,0,2
+Hydrovegen,26.03.2023,17:00,2,68,55,12,8,1,2,1,1,0,4
+Hydrovegen,26.03.2023,17:00,Totalt i retning Herøya industripark,65,61,4,2,1,1,0,0,0,2
+Hydrovegen,26.03.2023,17:00,Totalt i retning Kulltangen,68,55,12,8,1,2,1,1,0,4
+Hydrovegen,26.03.2023,17:00,Totalt,133,116,16,10,2,3,1,1,0,6
+Hydrovegen,26.03.2023,18:00,1,83,78,5,4,1,0,0,0,0,1
+Hydrovegen,26.03.2023,18:00,2,54,46,7,3,2,1,1,0,1,4
+Hydrovegen,26.03.2023,18:00,Totalt i retning Herøya industripark,83,78,5,4,1,0,0,0,0,1
+Hydrovegen,26.03.2023,18:00,Totalt i retning Kulltangen,54,46,7,3,2,1,1,0,1,4
+Hydrovegen,26.03.2023,18:00,Totalt,137,124,12,7,3,1,1,0,1,5
+Hydrovegen,26.03.2023,19:00,1,88,86,2,1,1,0,0,0,0,1
+Hydrovegen,26.03.2023,19:00,2,100,89,8,7,1,0,0,0,0,1
+Hydrovegen,26.03.2023,19:00,Totalt i retning Herøya industripark,88,86,2,1,1,0,0,0,0,1
+Hydrovegen,26.03.2023,19:00,Totalt i retning Kulltangen,100,89,8,7,1,0,0,0,0,1
+Hydrovegen,26.03.2023,19:00,Totalt,188,175,10,8,2,0,0,0,0,2
+Hydrovegen,26.03.2023,20:00,1,59,53,6,2,2,0,2,2,0,4
+Hydrovegen,26.03.2023,20:00,2,59,45,13,10,2,0,1,1,0,3
+Hydrovegen,26.03.2023,20:00,Totalt i retning Herøya industripark,59,53,6,2,2,0,2,2,0,4
+Hydrovegen,26.03.2023,20:00,Totalt i retning Kulltangen,59,45,13,10,2,0,1,1,0,3
+Hydrovegen,26.03.2023,20:00,Totalt,118,98,19,12,4,0,3,3,0,7
+Hydrovegen,26.03.2023,21:00,1,26,24,2,1,0,0,1,1,0,1
+Hydrovegen,26.03.2023,21:00,2,31,23,7,6,0,1,0,0,0,1
+Hydrovegen,26.03.2023,21:00,Totalt i retning Herøya industripark,26,24,2,1,0,0,1,1,0,1
+Hydrovegen,26.03.2023,21:00,Totalt i retning Kulltangen,31,23,7,6,0,1,0,0,0,1
+Hydrovegen,26.03.2023,21:00,Totalt,57,47,9,7,0,1,1,1,0,2
+Hydrovegen,26.03.2023,22:00,1,21,21,0,0,0,0,0,0,0,0
+Hydrovegen,26.03.2023,22:00,2,26,21,5,4,0,0,1,1,0,1
+Hydrovegen,26.03.2023,22:00,Totalt i retning Herøya industripark,21,21,0,0,0,0,0,0,0,0
+Hydrovegen,26.03.2023,22:00,Totalt i retning Kulltangen,26,21,5,4,0,0,1,1,0,1
+Hydrovegen,26.03.2023,22:00,Totalt,47,42,5,4,0,0,1,1,0,1
+Hydrovegen,26.03.2023,23:00,1,23,22,1,1,0,0,0,0,0,0
+Hydrovegen,26.03.2023,23:00,2,19,13,6,4,1,0,1,1,0,2
+Hydrovegen,26.03.2023,23:00,Totalt i retning Herøya industripark,23,22,1,1,0,0,0,0,0,0
+Hydrovegen,26.03.2023,23:00,Totalt i retning Kulltangen,19,13,6,4,1,0,1,1,0,2
+Hydrovegen,26.03.2023,23:00,Totalt,42,35,7,5,1,0,1,1,0,2
+Hydrovegen,26.03.2023,0:00,1,8,7,1,1,0,0,0,0,0,0
+Hydrovegen,26.03.2023,0:00,2,10,7,3,3,0,0,0,0,0,0
+Hydrovegen,26.03.2023,0:00,Totalt i retning Herøya industripark,8,7,1,1,0,0,0,0,0,0
+Hydrovegen,26.03.2023,0:00,Totalt i retning Kulltangen,10,7,3,3,0,0,0,0,0,0
+Hydrovegen,26.03.2023,0:00,Totalt,18,14,4,4,0,0,0,0,0,0
+Hydrovegen,27.03.2023,1:00,1,3,3,0,0,0,0,0,0,0,0
+Hydrovegen,27.03.2023,1:00,2,8,7,1,1,0,0,0,0,0,0
+Hydrovegen,27.03.2023,1:00,Totalt i retning Herøya industripark,3,3,0,0,0,0,0,0,0,0
+Hydrovegen,27.03.2023,1:00,Totalt i retning Kulltangen,8,7,1,1,0,0,0,0,0,0
+Hydrovegen,27.03.2023,1:00,Totalt,11,10,1,1,0,0,0,0,0,0
+Hydrovegen,27.03.2023,2:00,1,5,3,2,2,0,0,0,0,0,0
+Hydrovegen,27.03.2023,2:00,2,4,2,2,2,0,0,0,0,0,0
+Hydrovegen,27.03.2023,2:00,Totalt i retning Herøya industripark,5,3,2,2,0,0,0,0,0,0
+Hydrovegen,27.03.2023,2:00,Totalt i retning Kulltangen,4,2,2,2,0,0,0,0,0,0
+Hydrovegen,27.03.2023,2:00,Totalt,9,5,4,4,0,0,0,0,0,0
+Hydrovegen,27.03.2023,3:00,1,3,2,1,0,0,0,1,1,0,1
+Hydrovegen,27.03.2023,3:00,2,6,5,1,1,0,0,0,0,0,0
+Hydrovegen,27.03.2023,3:00,Totalt i retning Herøya industripark,3,2,1,0,0,0,1,1,0,1
+Hydrovegen,27.03.2023,3:00,Totalt i retning Kulltangen,6,5,1,1,0,0,0,0,0,0
+Hydrovegen,27.03.2023,3:00,Totalt,9,7,2,1,0,0,1,1,0,1
+Hydrovegen,27.03.2023,4:00,1,3,1,2,2,0,0,0,0,0,0
+Hydrovegen,27.03.2023,4:00,2,4,2,2,1,0,0,1,1,0,1
+Hydrovegen,27.03.2023,4:00,Totalt i retning Herøya industripark,3,1,2,2,0,0,0,0,0,0
+Hydrovegen,27.03.2023,4:00,Totalt i retning Kulltangen,4,2,2,1,0,0,1,1,0,1
+Hydrovegen,27.03.2023,4:00,Totalt,7,3,4,3,0,0,1,1,0,1
+Hydrovegen,27.03.2023,5:00,1,3,2,1,0,1,0,0,0,0,1
+Hydrovegen,27.03.2023,5:00,2,4,2,2,2,0,0,0,0,0,0
+Hydrovegen,27.03.2023,5:00,Totalt i retning Herøya industripark,3,2,1,0,1,0,0,0,0,1
+Hydrovegen,27.03.2023,5:00,Totalt i retning Kulltangen,4,2,2,2,0,0,0,0,0,0
+Hydrovegen,27.03.2023,5:00,Totalt,7,4,3,2,1,0,0,0,0,1
+Hydrovegen,27.03.2023,6:00,1,54,51,3,1,1,1,0,0,0,2
+Hydrovegen,27.03.2023,6:00,2,13,5,5,1,4,0,0,0,0,4
+Hydrovegen,27.03.2023,6:00,Totalt i retning Herøya industripark,54,51,3,1,1,1,0,0,0,2
+Hydrovegen,27.03.2023,6:00,Totalt i retning Kulltangen,13,5,5,1,4,0,0,0,0,4
+Hydrovegen,27.03.2023,6:00,Totalt,67,56,8,2,5,1,0,0,0,6
+Hydrovegen,27.03.2023,7:00,1,417,401,16,6,6,2,2,2,0,10
+Hydrovegen,27.03.2023,7:00,2,87,57,14,7,5,2,0,0,0,7
+Hydrovegen,27.03.2023,7:00,Totalt i retning Herøya industripark,417,401,16,6,6,2,2,2,0,10
+Hydrovegen,27.03.2023,7:00,Totalt i retning Kulltangen,87,57,14,7,5,2,0,0,0,7
+Hydrovegen,27.03.2023,7:00,Totalt,504,458,30,13,11,4,2,2,0,17
+Hydrovegen,27.03.2023,8:00,1,480,454,26,11,6,8,1,1,0,15
+Hydrovegen,27.03.2023,8:00,2,159,94,35,22,5,4,4,4,0,13
+Hydrovegen,27.03.2023,8:00,Totalt i retning Herøya industripark,480,454,26,11,6,8,1,1,0,15
+Hydrovegen,27.03.2023,8:00,Totalt i retning Kulltangen,159,94,35,22,5,4,4,4,0,13
+Hydrovegen,27.03.2023,8:00,Totalt,639,548,61,33,11,12,5,5,0,28
+Hydrovegen,27.03.2023,9:00,1,289,254,35,11,11,7,6,6,0,24
+Hydrovegen,27.03.2023,9:00,2,114,60,41,24,6,4,7,7,0,17
+Hydrovegen,27.03.2023,9:00,Totalt i retning Herøya industripark,289,254,35,11,11,7,6,6,0,24
+Hydrovegen,27.03.2023,9:00,Totalt i retning Kulltangen,114,60,41,24,6,4,7,7,0,17
+Hydrovegen,27.03.2023,9:00,Totalt,403,314,76,35,17,11,13,13,0,41
+Hydrovegen,27.03.2023,10:00,1,157,120,37,9,15,7,6,6,0,28
+Hydrovegen,27.03.2023,10:00,2,115,51,53,32,9,1,11,11,0,21
+Hydrovegen,27.03.2023,10:00,Totalt i retning Herøya industripark,157,120,37,9,15,7,6,6,0,28
+Hydrovegen,27.03.2023,10:00,Totalt i retning Kulltangen,115,51,53,32,9,1,11,11,0,21
+Hydrovegen,27.03.2023,10:00,Totalt,272,171,90,41,24,8,17,17,0,49
+Hydrovegen,27.03.2023,11:00,1,144,114,30,6,13,4,7,7,0,24
+Hydrovegen,27.03.2023,11:00,2,140,89,41,22,10,4,5,5,0,19
+Hydrovegen,27.03.2023,11:00,Totalt i retning Herøya industripark,144,114,30,6,13,4,7,7,0,24
+Hydrovegen,27.03.2023,11:00,Totalt i retning Kulltangen,140,89,41,22,10,4,5,5,0,19
+Hydrovegen,27.03.2023,11:00,Totalt,284,203,71,28,23,8,12,12,0,43
+Hydrovegen,27.03.2023,12:00,1,135,105,30,6,11,4,9,9,0,24
+Hydrovegen,27.03.2023,12:00,2,131,83,39,19,9,1,10,10,0,20
+Hydrovegen,27.03.2023,12:00,Totalt i retning Herøya industripark,135,105,30,6,11,4,9,9,0,24
+Hydrovegen,27.03.2023,12:00,Totalt i retning Kulltangen,131,83,39,19,9,1,10,10,0,20
+Hydrovegen,27.03.2023,12:00,Totalt,266,188,69,25,20,5,19,19,0,44
+Hydrovegen,27.03.2023,13:00,1,140,107,33,9,11,7,6,6,0,24
+Hydrovegen,27.03.2023,13:00,2,135,83,44,23,9,5,7,7,0,21
+Hydrovegen,27.03.2023,13:00,Totalt i retning Herøya industripark,140,107,33,9,11,7,6,6,0,24
+Hydrovegen,27.03.2023,13:00,Totalt i retning Kulltangen,135,83,44,23,9,5,7,7,0,21
+Hydrovegen,27.03.2023,13:00,Totalt,275,190,77,32,20,12,13,13,0,45
+Hydrovegen,27.03.2023,14:00,1,171,127,44,10,15,10,9,9,0,34
+Hydrovegen,27.03.2023,14:00,2,162,101,50,19,16,3,12,12,0,31
+Hydrovegen,27.03.2023,14:00,Totalt i retning Herøya industripark,171,127,44,10,15,10,9,9,0,34
+Hydrovegen,27.03.2023,14:00,Totalt i retning Kulltangen,162,101,50,19,16,3,12,12,0,31
+Hydrovegen,27.03.2023,14:00,Totalt,333,228,94,29,31,13,21,21,0,65
+Hydrovegen,27.03.2023,15:00,1,174,147,27,4,8,6,9,9,0,23
+Hydrovegen,27.03.2023,15:00,2,289,210,55,30,11,3,11,11,0,25
+Hydrovegen,27.03.2023,15:00,Totalt i retning Herøya industripark,174,147,27,4,8,6,9,9,0,23
+Hydrovegen,27.03.2023,15:00,Totalt i retning Kulltangen,289,210,55,30,11,3,11,11,0,25
+Hydrovegen,27.03.2023,15:00,Totalt,463,357,82,34,19,9,20,20,0,48
+Hydrovegen,27.03.2023,16:00,1,155,137,18,7,4,5,2,2,0,11
+Hydrovegen,27.03.2023,16:00,2,68,46,18,13,3,1,1,1,0,5
+Hydrovegen,27.03.2023,16:00,Totalt i retning Herøya industripark,155,137,18,7,4,5,2,2,0,11
+Hydrovegen,27.03.2023,16:00,Totalt i retning Kulltangen,68,46,18,13,3,1,1,1,0,5
+Hydrovegen,27.03.2023,16:00,Totalt,223,183,36,20,7,6,3,3,0,16
+Hydrovegen,27.03.2023,17:00,1,156,143,13,2,8,2,1,1,0,11
+Hydrovegen,27.03.2023,17:00,2,222,167,41,31,4,2,4,4,0,10
+Hydrovegen,27.03.2023,17:00,Totalt i retning Herøya industripark,156,143,13,2,8,2,1,1,0,11
+Hydrovegen,27.03.2023,17:00,Totalt i retning Kulltangen,222,167,41,31,4,2,4,4,0,10
+Hydrovegen,27.03.2023,17:00,Totalt,378,310,54,33,12,4,5,5,0,21
+Hydrovegen,27.03.2023,18:00,1,69,57,12,3,4,1,4,4,0,9
+Hydrovegen,27.03.2023,18:00,2,108,79,23,16,1,4,2,2,0,7
+Hydrovegen,27.03.2023,18:00,Totalt i retning Herøya industripark,69,57,12,3,4,1,4,4,0,9
+Hydrovegen,27.03.2023,18:00,Totalt i retning Kulltangen,108,79,23,16,1,4,2,2,0,7
+Hydrovegen,27.03.2023,18:00,Totalt,177,136,35,19,5,5,6,6,0,16
+Hydrovegen,27.03.2023,19:00,1,72,68,4,1,1,0,2,2,0,3
+Hydrovegen,27.03.2023,19:00,2,106,71,32,20,6,3,3,3,0,12
+Hydrovegen,27.03.2023,19:00,Totalt i retning Herøya industripark,72,68,4,1,1,0,2,2,0,3
+Hydrovegen,27.03.2023,19:00,Totalt i retning Kulltangen,106,71,32,20,6,3,3,3,0,12
+Hydrovegen,27.03.2023,19:00,Totalt,178,139,36,21,7,3,5,5,0,15
+Hydrovegen,27.03.2023,20:00,1,68,59,9,2,3,3,1,1,0,7
+Hydrovegen,27.03.2023,20:00,2,74,59,12,10,1,1,0,0,0,2
+Hydrovegen,27.03.2023,20:00,Totalt i retning Herøya industripark,68,59,9,2,3,3,1,1,0,7
+Hydrovegen,27.03.2023,20:00,Totalt i retning Kulltangen,74,59,12,10,1,1,0,0,0,2
+Hydrovegen,27.03.2023,20:00,Totalt,142,118,21,12,4,4,1,1,0,9
+Hydrovegen,27.03.2023,21:00,1,61,56,5,1,0,2,2,2,0,4
+Hydrovegen,27.03.2023,21:00,2,50,35,14,4,3,0,7,7,0,10
+Hydrovegen,27.03.2023,21:00,Totalt i retning Herøya industripark,61,56,5,1,0,2,2,2,0,4
+Hydrovegen,27.03.2023,21:00,Totalt i retning Kulltangen,50,35,14,4,3,0,7,7,0,10
+Hydrovegen,27.03.2023,21:00,Totalt,111,91,19,5,3,2,9,9,0,14
+Hydrovegen,27.03.2023,22:00,1,55,47,8,3,0,3,2,2,0,5
+Hydrovegen,27.03.2023,22:00,2,38,28,10,7,1,1,1,1,0,3
+Hydrovegen,27.03.2023,22:00,Totalt i retning Herøya industripark,55,47,8,3,0,3,2,2,0,5
+Hydrovegen,27.03.2023,22:00,Totalt i retning Kulltangen,38,28,10,7,1,1,1,1,0,3
+Hydrovegen,27.03.2023,22:00,Totalt,93,75,18,10,1,4,3,3,0,8
+Hydrovegen,27.03.2023,23:00,1,72,65,7,2,2,0,3,3,0,5
+Hydrovegen,27.03.2023,23:00,2,95,75,18,10,3,1,4,4,0,8
+Hydrovegen,27.03.2023,23:00,Totalt i retning Herøya industripark,72,65,7,2,2,0,3,3,0,5
+Hydrovegen,27.03.2023,23:00,Totalt i retning Kulltangen,95,75,18,10,3,1,4,4,0,8
+Hydrovegen,27.03.2023,23:00,Totalt,167,140,25,12,5,1,7,7,0,13

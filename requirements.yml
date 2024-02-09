@@ -1,0 +1,5 @@
+name: heroya
+channels:
+  - conda-forge
+  - defaults
+prefix: C:\Users\iparm\anaconda3\envs\heroya

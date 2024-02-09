@@ -1,0 +1,5 @@
+__pycache__/
+ORS/heroya.osm.pbf
+data/gtfs/
+Toolkit/__pycache__/
+actors/__pycache__/
